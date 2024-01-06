@@ -1,0 +1,48 @@
+id,name,habitat,description,move,c_description
+1.0,bulbasaur,grassland,"BULBASAUR can be seen napping in
+bright sunlight.
+There is a seed on its back.By soaking up the sun’s rays, the seed
+grows progressively larger.",razor-wind,"BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger."
+2.0,ivysaur,grassland,"There is a bud on this POKéMON’s back.
+To support its weight, IVYSAUR’s legs
+and trunk grow thick and strong.If it starts spending more time lying
+in the sunlight, it’s a sign that the
+bud will bloom into a large flower soon.",swords-dance,"There is a bud on this IVYSAUR’s back. To support its weight, IVYSAUR’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon."
+3.0,venusaur,grassland,"There is a large flower on VENUSAUR’s
+back. The flower is said to take on vivid
+colors if it gets plenty of nutritionand sunlight. The flower’s aroma
+soothes the emotions of people.",swords-dance,There is a large flower on VENUSAUR’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.
+4.0,charmander,mountain,"The flame that burns at the tip of its
+tail is an indication of its emotions.
+The flame wavers when CHARMANDER isenjoying itself. If the POKéMON becomes
+enraged, the flame burns fiercely.",mega-punch,"The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the CHARMANDER becomes enraged, the flame burns fiercely."
+5.0,charmeleon,mountain,"CHARMELEON mercilessly destroys its
+foes using its sharp claws.
+If it encounters a strong foe, it turnsaggressive. In this excited state, the
+flame at the tip of its tail flares with a
+bluish white color.",mega-punch,"CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
+6.0,charizard,mountain,"CHARIZARD flies around the sky in
+search of powerful opponents.
+It breathes fire of such great heatthat it melts anything. However, it
+never turns its fiery breath on any
+opponent weaker than itself.",mega-punch,"CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself."
+7.0,squirtle,waters-edge,"SQUIRTLE’s shell is not merely used
+for protection.
+The shell’s rounded shape and thegrooves on its surface help minimize
+resistance in water, enabling this
+POKéMON to swim at high speeds.",mega-punch,"SQUIRTLE’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this SQUIRTLE to swim at high speeds."
+8.0,wartortle,waters-edge,"Its tail is large and covered with a rich,
+thick fur. The tail becomes increasingly
+deeper in color as WARTORTLE ages.The scratches on its shell are evidence
+of this POKéMON’s toughness as a
+battler.",mega-punch,"Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this WARTORTLE’s toughness as a battler."
+9.0,blastoise,waters-edge,"BLASTOISE has water spouts that
+protrude from its shell. The water
+spouts are very accurate.They can shoot bullets of water with
+enough accuracy to strike empty cans
+from a distance of over 160 feet.",mega-punch,BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.
+10.0,caterpie,forest,"Its feet have
+suction cups
+designed to stickto any surface. It
+tenaciously climbs
+trees to forage.",tackle,Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.
