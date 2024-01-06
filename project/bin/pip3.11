@@ -1,4 +1,4 @@
-#!/Users/senna/poke_haiku/project/bin/python3.11
+#!/Users/senna/poke_haiku/poke_haiku/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
