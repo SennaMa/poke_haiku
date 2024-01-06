@@ -1,6 +1,8 @@
 # personal directories and files
 planning*
 project/.DS_Store
+*pyvenv.cfg*
+project/bin*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
