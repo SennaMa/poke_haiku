@@ -3,6 +3,7 @@ import pandas as pd
 import os
 
 cwd = os.getcwd()
+# TODO: fix path
 path_to_raw_df = f'{cwd}/data/poke_df.csv'
 path_to_clean_df = f'{cwd}/data/clean_poke_df.csv'
 
