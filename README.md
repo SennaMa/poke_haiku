@@ -7,8 +7,8 @@ Fun project. Wynaut?
 Generate haikus using pokemone descriptions
 
 ### Instructions
+*Will change. Writing details for now.*
 
-1. Activate the vm
-`source project/bin/activate`
-
-2. 
+1. Fetch parameters. Results are stored in poke_api/data
+2. Clean poke_descriptions. Results are saved in a new CSV which is a clone of the raw data but with an additional column holding the cleaned results.
+3. Generate haikus. 
