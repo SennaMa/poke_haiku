@@ -1,5 +1,9 @@
 import requests
 import pandas as pd
+import os
+
+cwd = os.getcwd()
+save_path = f'{cwd}/project/poke_api/data/poke_df.csv'
 
 def get_poke_description(poke_id: int) -> dict:
     """Fetches data from PokeAPI.
@@ -85,6 +89,4 @@ def create_dataset_of_pokemon():
     return df
 
 final_df = create_dataset_of_pokemon()
-
-save_path = '/Users/senna/poke_haiku/project/poke_api/dataframes/poke_df.csv'
 final_df.to_csv(save_path, index=False)

@@ -39,12 +39,12 @@ logger.info(f'Generated haikus using these parameters: tokens={TOKENS}, temperat
 poke_ids = []
 haikus = []
 
-for poke_id in range(0,149):
+for poke_id in range(0,150):
     haiku = generate_haiku(PERSONAL_TOKEN, MODEL, df, poke_id, TOKENS, TEMPERATURE, TOP_K)
     
     poke_ids.append(poke_id)
     haikus.append(haiku)
-    # wait 45 seconds due to rate limit
+    # wait 20 seconds due to rate limit
     time.sleep(20)
 
 saved_haikus = {"poke_id": poke_ids, "haiku": haikus}
