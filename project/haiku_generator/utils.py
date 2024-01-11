@@ -1,5 +1,3 @@
-from random import randint
-from dotenv import load_dotenv
 import cohere
 import pandas as pd
 import os
