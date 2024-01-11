@@ -14,7 +14,7 @@ def generate_haiku(token:str, custom_model:str, df:pd.DataFrame, poke_id:int, to
     prompt_habitat = df.iloc[poke_id]['habitat']
 
     
-    llm_prompt = f'Generate a three-line haiku that about the Pokemon called "{prompt_pokemon}". Here is a description of {prompt_pokemon}: {prompt_description}. {prompt_pokemon} knows the move {prompt_move} and {prompt_pokemon} lives in {prompt_habitat}.'
+    llm_prompt = f'Generate a three-line haiku about a Pokemon called: "{prompt_pokemon}". Here is a description of {prompt_pokemon}: {prompt_description}. {prompt_pokemon} lives in {prompt_habitat} and {prompt_pokemon} knows the move {prompt_move}.'
     set_max_tokens=tokens
     set_temperature=temperature
     set_k=top_k

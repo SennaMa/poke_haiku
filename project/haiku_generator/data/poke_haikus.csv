@@ -1,1362 +1,1133 @@
-id,name,habitat,description,move,c_description,haiku
-1.0,bulbasaur,grassland,"BULBASAUR can be seen napping in
-bright sunlight.
-There is a seed on its back.By soaking up the sun’s rays, the seed
-grows progressively larger.",razor-wind,"BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.","Prediction:
- In the grassland
-
-A sleeping Bulbasaur
-
-Is napped.
+id,name,habitat,description,move,sprite_front,sprite_back,c_description,haiku_2
+1.0,bulbasaur,grassland,"A strange seed was planted on its back at
+birth. The plant sprouts and grows with
+this POKéMON.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif,A strange seed was planted on its back at birth. The plant sprouts and grows with this BULBASAUR.,"Prediction:
+ A weird seed,
+A strange child,
+A grass monster.
 "
-2.0,ivysaur,grassland,"There is a bud on this POKéMON’s back.
-To support its weight, IVYSAUR’s legs
-and trunk grow thick and strong.If it starts spending more time lying
-in the sunlight, it’s a sign that the
-bud will bloom into a large flower soon.",swords-dance,"There is a bud on this IVYSAUR’s back. To support its weight, IVYSAUR’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.","Prediction:
- There is a bud
-On the IVYSAUR's back;
-Its weight is supported
-By IVYSAUR"
-3.0,venusaur,grassland,"There is a large flower on VENUSAUR’s
-back. The flower is said to take on vivid
-colors if it gets plenty of nutritionand sunlight. The flower’s aroma
-soothes the emotions of people.",swords-dance,There is a large flower on VENUSAUR’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.,"Prediction:
- Venusaur
+2.0,ivysaur,grassland,"When the bulb on its back grows large, it
+appears to lose the ability to stand on
+its hind legs.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif,"When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.","Prediction:
+ An ivysaur, its bulb
+Grows to the size
+Of a small house.
+It's hard to stand"
+3.0,venusaur,grassland,"Its plant blooms when it is absorbing
+solar energy. It stays on the move to
+seek sunlight.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/3.gif,Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.,"Prediction:
+ A Venusaur moves through a grassland
 
-with flower
+Its flower blooms
 
-of colors,
+With the move swords-dance."
+4.0,charmander,mountain,"It has a preference for hot things.
+When it rains, steam is said to spout from
+the tip of its tail.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/4.gif,"It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.","Prediction:
+ A Charmander
 
-and aroma.
-
-In the grassland."
-4.0,charmander,mountain,"The flame that burns at the tip of its
-tail is an indication of its emotions.
-The flame wavers when CHARMANDER isenjoying itself. If the POKéMON becomes
-enraged, the flame burns fiercely.",mega-punch,"The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the CHARMANDER becomes enraged, the flame burns fiercely.","Prediction:
- Charmander, the flames
-Burn at the tip of its tail
-It's emotions we can see."
-5.0,charmeleon,mountain,"CHARMELEON mercilessly destroys its
-foes using its sharp claws.
-If it encounters a strong foe, it turnsaggressive. In this excited state, the
-flame at the tip of its tail flares with a
-bluish white color.",mega-punch,"CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.","Prediction:
- In the mountains,
-
-Charmeleon
-
-Plodes to destroy."
-6.0,charizard,mountain,"CHARIZARD flies around the sky in
-search of powerful opponents.
-It breathes fire of such great heatthat it melts anything. However, it
-never turns its fiery breath on any
-opponent weaker than itself.",mega-punch,"CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.","Prediction:
- Charizard
-Flies around the sky
-In search of powerful opponents.
-It never turns
-Its fiery breath
-On"
-7.0,squirtle,waters-edge,"SQUIRTLE’s shell is not merely used
-for protection.
-The shell’s rounded shape and thegrooves on its surface help minimize
-resistance in water, enabling this
-POKéMON to swim at high speeds.",mega-punch,"SQUIRTLE’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this SQUIRTLE to swim at high speeds.","Prediction:
- With its rounded form and grooves,
-The squirtle,
-Can swim at high speeds.
+Is a creature that cannot resist
+The heat of the mountain
+It knows the move
+Mega"
+5.0,charmeleon,mountain,"When it swings its burning tail, it
+elevates the air temperature to 
+unbearably high levels.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/5.gif,"When it swings its burning tail, it elevates the air temperature to  unbearably high levels.","Prediction:
+ Charmeleon:
+Its tail aflame,
+A temperature so hot,
+It makes the air unbearable.
 "
-8.0,wartortle,waters-edge,"Its tail is large and covered with a rich,
-thick fur. The tail becomes increasingly
-deeper in color as WARTORTLE ages.The scratches on its shell are evidence
-of this POKéMON’s toughness as a
-battler.",mega-punch,"Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this WARTORTLE’s toughness as a battler.","Prediction:
- Deeply furred,
+6.0,charizard,mountain,"It spits fire that is hot enough to melt
+boulders. It may cause forest fires by
+blowing flames.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/6.gif,It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.,"Prediction:
+ Charizard, the Fire-type Pokémon
 
-The aged,
+Spits fire so hot it melts rocks.
 
-The very old:
+It may cause forest"
+7.0,squirtle,waters-edge,"After birth, its back swells and hardens
+into a shell. It powerfully sprays foam 
+from its mouth.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/7.gif,"After birth, its back swells and hardens into a shell. It powerfully sprays foam  from its mouth.","Prediction:
+ It's time for a new generation
+Of squirtle to be born
+And with it the new world."
+8.0,wartortle,waters-edge,"It often hides in water to stalk unwary
+prey. For fast swimming, it moves its
+ears to maintain balance.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/8.gif,"It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance.","Prediction:
+ At the edge of the water,
 
-Wartortle."
-9.0,blastoise,waters-edge,"BLASTOISE has water spouts that
-protrude from its shell. The water
-spouts are very accurate.They can shoot bullets of water with
-enough accuracy to strike empty cans
-from a distance of over 160 feet.",mega-punch,BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.,"Prediction:
- BLASTOISE
- knows the move
-MEGA-PUNCH
+A Wartortle hides,
 
-Blastoise lives in Water's-Edge"
-10.0,caterpie,forest,"Its feet have
-suction cups
-designed to stickto any surface. It
-tenaciously climbs
-trees to forage.",tackle,Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.,"Prediction:
- Stalking caterpie
-Its feet sticky
-Climbing the trees"
-11.0,metapod,forest,"The shell covering this POKéMON’s body
-is as hard as an iron slab.
-METAPOD does not move very much.It stays still because it is preparing
-its soft innards for evolution inside
-the hard shell.",string-shot,The shell covering this METAPOD’s body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.,"Prediction:
- In the forest
-The hard- shelled
-Metapod.
+Prey does not walk by."
+9.0,blastoise,waters-edge,"The pressurized water jets on this brutal
+POKéMON’s shell are used for high-
+speed tackles.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/9.gif,The pressurized water jets on this brutal BLASTOISE’s shell are used for high- speed tackles.,"Prediction:
+ A BLASTOISE,
+Is the most powerful Pokémon.
+Mega-punch
+They know."
+10.0,caterpie,forest,"Its voracious appetite compels it to
+devour leaves bigger than itself without
+hesitation. It releases a terribly strong
+odor from its antennae.",tackle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/10.gif,Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.,"Prediction:
+ caterpie, the forest-dweller,
+The leaves it devoured
+Was so big it couldn't move."
+11.0,metapod,forest,"This POKéMON is vulnerable to attack
+while its shell is soft, exposing its weak
+and tender body.",string-shot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/11.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/11.gif,"This METAPOD is vulnerable to attack while its shell is soft, exposing its weak and tender body.","Prediction:
+ Metapod
+
+Is vulnerable to attack
+
+While its shell is soft
+And tender.
 "
-12.0,butterfree,forest,"BUTTERFREE has a superior ability to
-search for delicious honey from
-flowers.It can even search out, extract, and
-carry honey from flowers that are
-blooming over six miles from its nest.",razor-wind,"BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.","Prediction:
- The butterfree
-Is a small Pokémon 
-That's all the more
- Sweet for being 
-A bug."
-13.0,weedle,forest,"WEEDLE has an extremely acute sense
-of smell.
-It is capable of distinguishing itsfavorite kinds of leaves from those it
-dislikes just by sniffing with its big
-red proboscis (nose).",poison-sting,WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).,"Prediction:
- ""Weedle""
-I have a great sense of smell,
-The thing I like
-Is a big red prob"
-14.0,kakuna,forest,"KAKUNA remains virtually immobile as it
-clings to a tree. However, on the
-inside, it is extremely busy as itprepares for its coming evolution.
-This is evident from how hot the shell
-becomes to the touch.",string-shot,"KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.","Prediction:
- A kakuna, busy inside
-The shell's hot to the touch
-Kakuna knows the move string-shot"
-15.0,beedrill,forest,"It uses sharp,
-poisonous stings
-to defeat prey,then takes the
-victim back to its
-nest for food.",swords-dance,"It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.","Prediction:
+12.0,butterfree,forest,"In battle, it flaps its wings at great
+speed to release highly toxic dust into
+the air.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/12.gif,"In battle, it flaps its wings at great speed to release highly toxic dust into the air.","Prediction:
+ Flapping its wings in battle,
+A Pokemon with no fear.
+It releases toxic dust:
+A force to be"
+13.0,weedle,forest,"Often found in forests, eating leaves.
+It has a sharp stinger on its head that
+injects poison.",poison-sting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/13.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/13.gif,"Often found in forests, eating leaves. It has a sharp stinger on its head that injects poison.","Prediction:
  In the forest,
 
-A beedrill
-
- knows the move:
-
-Swords-dance."
-16.0,pidgey,forest,"PIDGEY has an extremely sharp sense
-of direction.
-It is capable of unerringly returninghome to its nest, however far it may be
-removed from its familiar surroundings.",razor-wind,"PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.","Prediction:
- At the edge of the forest
-The pidgey flits
-From leaf to leaf."
-17.0,pidgeotto,forest,"PIDGEOTTO claims a large area as its
-own territory. This POKéMON flies
-around, patrolling its living space.If its territory is violated, it shows
-no mercy in thoroughly punishing the
-foe with its sharp claws.",razor-wind,"PIDGEOTTO claims a large area as its own territory. This PIDGEOTTO flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.","Prediction:
- Pidgeotto's territory
-
-The razor-wind flies
-
-In the forest."
-18.0,pidgeot,forest,"This POKéMON has a dazzling plumage of
-beautifully glossy feathers.
-Many TRAINERS are captivated by thestriking beauty of the feathers on its
-head, compelling them to choose PIDGEOT
-as their POKéMON.",razor-wind,"This PIDGEOT has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their PIDGEOT.","Prediction:
- Pidgeot
-
-Has a dazzling
-
-Dashing
-"
-19.0,rattata,grassland,"This POKéMON's
-impressive vital­
-ity allows it tolive anywhere. It
-also multiplies
-very quickly.",cut,This RATTATA's impressive vital­ ity allows it to live anywhere. It also multiplies very quickly.,"Prediction:
- RATTATA
-RATTATA's vital 
-Is in its head.
-"
-20.0,raticate,grassland,"The webs on its
-hind legs enable
-it to crossrivers. It search­
-es wide areas for
-food.",swords-dance,The webs on its hind legs enable it to cross rivers. It search­ es wide areas for food.,"Prediction:
- web-swinging
-wide, hungry eyes
-sneaky, hungry
-"
-21.0,spearow,rough-terrain,"To protect its
-territory, it
-flies aroundceaselessly,
-making high-
-pitched cries.",razor-wind,"To protect its territory, it flies around ceaselessly, making high- pitched cries.","Prediction:
- A spearow on a wind,
-Its territory, 
-A high-pitched cry.
-"
-22.0,fearow,rough-terrain,"FEAROW is recognized by its long neck
-and elongated beak.
-They are conveniently shaped forcatching prey in soil or water.
-It deftly moves its long and skinny
-beak to pluck prey.",razor-wind,FEAROW is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.,"Prediction:
- Its neck is long, its beak is long,
-
-A fearow with a long, thin beak.
-"
-23.0,ekans,grassland,"EKANS curls itself up in a spiral while
-it rests.
-Assuming this position allows it toquickly respond to a threat from any
-direction with a glare from its upraised
-head.",bind,EKANS curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.,"Prediction:
- EKANS curls itself up
-In a spiral while it rests,
-And with a glare.
-"
-24.0,arbok,grassland,"This POKéMON is terrifically strong in
-order to constrict things with its body.
-It can even flatten steel oil drums.Once ARBOK wraps its body around its
-foe, escaping its crunching embrace is
-impossible.",bind,"This ARBOK is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.","Prediction:
- ARBOK!
-This terrific body,
-Is it good to bind?
-It is a grass type."
-25.0,pikachu,forest,"Whenever PIKACHU comes across
-something new, it blasts it with a jolt
-of electricity.If you come across a blackened berry,
-it’s evidence that this POKéMON
-mistook the intensity of its charge.",mega-punch,"Whenever PIKACHU comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it’s evidence that this PIKACHU mistook the intensity of its charge.","Prediction:
- Whenever a Pokemon comes
-
- Across something new,
-
- It blasting it with a jolt
-
- Of electricity.
-"
-26.0,raichu,forest,"If its electric
-pouches run empty,
-it raises its tailto gather electri­
-city from the
-atmosphere.",mega-punch,"If its electric pouches run empty, it raises its tail to gather electri­ city from the atmosphere.","Prediction:
- The electric-pouch-fulled Raichu
-
-Darts toward the sky with its tail.
-
-Ra"
-27.0,sandshrew,rough-terrain,"SANDSHREW’s body is configured to
-absorb water without waste, enabling it
-to survive in an arid desert.This POKéMON curls up to protect itself
-from its enemies.",scratch,"SANDSHREW’s body is configured to absorb water without waste, enabling it to survive in an arid desert. This SANDSHREW curls up to protect itself from its enemies.","Prediction:
- Sandshrew
-Scratches
-A desert."
-28.0,sandslash,rough-terrain,"SANDSLASH’s body is covered by tough
-spikes, which are hardened sections of
-its hide. Once a year, the old spikes fallout, to be replaced with new spikes that
-grow out from beneath the old ones.",scratch,"SANDSLASH’s body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.","Prediction:
- Scratches cover the body
-The body covered by
-Tough, hardened spikes."
-29.0,nidoran-f,grassland,"NIDORAN has barbs that secrete a
-powerful poison. They are thought to
-have developed as protection for thissmall-bodied POKéMON.
-When enraged, it releases a horrible
-toxin from its horn.",scratch,"NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied NIDORAN-F. When enraged, it releases a horrible toxin from its horn.","Prediction:
- NIDORAN-F
-
-Has barbs
-
-With a toxic
-
-Scratch
-
-Nidoran"
-30.0,nidorina,grassland,"When NIDORINA are with their friends or
-family, they keep their barbs tucked
-away to prevent hurting each other.This POKéMON appears to become
-nervous if separated from the others.",scratch,"When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This NIDORINA appears to become nervous if separated from the others.","Prediction:
- The scratch
-The small nodorina
-It lives in the grassland."
-31.0,nidoqueen,grassland,"NIDOQUEEN’s body is encased in
-extremely hard scales. It is adept at
-sending foes flying with harsh tackles.This POKéMON is at its strongest when
-it is defending its young.",mega-punch,NIDOQUEEN’s body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This NIDOQUEEN is at its strongest when it is defending its young.,"Prediction:
- Scales
-The body is a hard case;
-I can send it flying.
-"
-32.0,nidoran-m,grassland,"The male NIDORAN has developed
-muscles for moving its ears. Thanks to
-them, the ears can be freely moved inany direction. Even the slightest sound
-does not escape this POKéMON’s notice.",cut,"The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this NIDORAN-M’s notice.","Prediction:
- The alert
-Nidoran-m.
-"
-33.0,nidorino,grassland,"Quick to anger, it
-stabs enemies with
-its horn to injecta powerful poison
-when it becomes
-agitated.",cut,"Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.","Prediction:
- Nidorino,
-A quick-tempered Pokemon,
-Stabs enemies with its horn,
-To inject poison."
-34.0,nidoking,grassland,"NIDOKING’s thick tail packs enormously
-destructive power. With one swing, it
-can topple a metal transmission tower.Once this POKéMON goes on a rampage,
-there is no stopping it.",mega-punch,"NIDOKING’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this NIDOKING goes on a rampage, there is no stopping it.","Prediction:
- The nidoking
-A rampaging tail
-"
-35.0,clefairy,mountain,"On every night of a full moon, groups of
-this POKéMON come out to play.
-When dawn arrives, the tired CLEFAIRYreturn to their quiet mountain retreats
-and go to sleep nestled up against each
-other.",pound,"On every night of a full moon, groups of this CLEFAIRY come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.","Prediction:
- A full moon night,
-
-And so the children
-
-Of Clefairy."
-36.0,clefable,mountain,"CLEFABLE moves by skipping lightly as if
-it were flying using its wings. Its
-bouncy step lets it even walk on water.It is known to take strolls on lakes on
-quiet, moonlit nights.",pound,"CLEFABLE moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.","Prediction:
- A quiet lake,
-A stroll on the water,
-The clefable."
-37.0,vulpix,grassland,"At the time of its birth, VULPIX has one
-white tail. The tail separates into six
-if this POKéMON receives plenty of lovefrom its TRAINER.
-The six tails become magnificently
-curled.",headbutt,"At the time of its birth, VULPIX has one white tail. The tail separates into six if this VULPIX receives plenty of love from its TRAINER. The six tails become magnificently curled.","Prediction:
- The vulpix, born with
-
-A single white tail.
-
-It grows into
-
-A six-tail"
-38.0,ninetales,grassland,"NINETALES casts a sinister light from
-its bright red eyes to gain total
-control over its foe’s mind.This POKéMON is said to live for a
-thousand years.",headbutt,NINETALES casts a sinister light from its bright red eyes to gain total control over its foe’s mind. This NINETALES is said to live for a thousand years.,"Prediction:
- NINETALES,
-A sinister light
-From its bright red eyes.
-"
-39.0,jigglypuff,grassland,"JIGGLYPUFF’s vocal chords can freely
-adjust the wavelength of its voice.
-This POKéMON uses this ability to singat precisely the right wavelength to
-make its foes most drowsy.",pound,JIGGLYPUFF’s vocal chords can freely adjust the wavelength of its voice. This JIGGLYPUFF uses this ability to sing at precisely the right wavelength to make its foes most drowsy.,"Prediction:
- It's the night in the grassland
-
-Jigglypuff is singing
-
-In the right wavelength"
-40.0,wigglytuff,grassland,"WIGGLYTUFF has large, saucerlike eyes.
-The surfaces of its eyes are always
-covered with a thin layer of tears.If any dust gets in this POKéMON’s
-eyes, it is quickly washed away.",pound,"WIGGLYTUFF has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this WIGGLYTUFF’s eyes, it is quickly washed away.","Prediction:
- WIGGLYTUFF,
-A large,
-Saucerlike eye.
-Always covered
-With a thin"
-41.0,zubat,cave,"Capable of flying
-safely in dark
-places, it emitsultrasonic cries
-to check for any
-obstacles.",razor-wind,"Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.","Prediction:
- Zubat, the cave Pokemon
-Zubat, so small and black
-Zubat is so cute"
-42.0,golbat,cave,"GOLBAT loves to drink the blood of
-living things. It is particularly active
-in the pitch black of night.This POKéMON flits around in the night
-skies, seeking fresh blood.",razor-wind,"GOLBAT loves to drink the blood of living things. It is particularly active in the pitch black of night. This GOLBAT flits around in the night skies, seeking fresh blood.","Prediction:
- GOLBAT 
-Love the black night.
-The cave is Golbat's home."
-43.0,oddish,grassland,"During the daytime, ODDISH buries
-itself in soil to absorb nutrients from 
-the ground using its entire body.The more fertile the soil, the glossier
-its leaves become.",swords-dance,"During the daytime, ODDISH buries itself in soil to absorb nutrients from  the ground using its entire body. The more fertile the soil, the glossier its leaves become.","Prediction:
- ODDISH
- buried itself deep in
- the soil.
-"
-44.0,gloom,grassland,"GLOOM releases a foul fragrance from
-the pistil of its flower. When faced
-with danger, the stench worsens.If this POKéMON is feeling calm and
-secure, it does not release its usual
-stinky aroma.",swords-dance,"GLOOM releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this GLOOM is feeling calm and secure, it does not release its usual stinky aroma.","Prediction:
- A Gloom,
-
-Fullen
-
-Is a grass-dwelling Pokemon that stinks.
-"
-45.0,vileplume,grassland,"The bud bursts
-into bloom with a
-bang. It thenstarts scattering
-allergenic, poi­
-sonous pollen.",swords-dance,"The bud bursts into bloom with a bang. It then starts scattering allergenic, poi­ sonous pollen.","Prediction:
- A vileplume blooms,
-
-Shaking the air
-
-With a bang."
-46.0,paras,forest,"PARAS has parasitic mushrooms growing
-on its back called tochukaso. They grow
-large by drawing nutrients from the BUGPOKéMON host. They are highly valued as
-a medicine for extending life.",scratch,PARAS has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from the BUG PARAS host. They are highly valued as a medicine for extending life.,"Prediction:
-PARAS lives on in the forest
-Scratched on its back
-A parasitic mushroom"
-47.0,parasect,forest,"PARASECT is known to infest large trees
-en masse and drain nutrients from the
-lower trunk and roots.When an infested tree dies, they move
-onto another tree all at once.",scratch,"PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.","Prediction:
- The scratch
-The parasect
-Forest."
-48.0,venonat,forest,"VENONAT is said to have evolved with
-a coat of thin, stiff hair that covers
-its entire body for protection.It possesses large eyes that never fail
-to spot even miniscule prey.",headbutt,"VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.","Prediction:
- The Venonat has the unique ability
-
-To evolve with its coat of hair
-
-Gleamingly polished by"
-49.0,venomoth,forest,"The scales it
-scatters will
-paralyze anyonewho touches them,
-making that person
-unable to stand.",razor-wind,"The scales it scatters will paralyze anyone who touches them, making that person unable to stand.","Prediction:
- Scales of a venomoth
-
-Scatter
-
-On the forest floor."
-50.0,diglett,cave,"It digs under­
-ground and chews
-on tree roots,sticking its head
-out only when the
-sun isn't bright.",scratch,"It digs under­ ground and chews on tree roots, sticking its head out only when the sun isn't bright.","Prediction:
- A small, purple-colored Pokémon that looks like a tiny mole
-Digs under the ground,
-And chews on"
-51.0,dugtrio,cave,"DUGTRIO are actually triplets that
-emerged from one body. As a result,
-each triplet thinks exactly like theother two triplets.
-They work cooperatively to burrow
-endlessly.",scratch,"DUGTRIO are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.","Prediction:
- Dugtrio, a cave-dwelling Pokémon
-
-With three heads and one body,
-
-They burrow endlessly"
-52.0,meowth,urban,"It loves things
-that sparkle. When
-it sees a shinyobject, the gold
-coin on its head
-shines too.",pay-day,"It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.","Prediction:
- Meowth lives in the city
-It loves things that sparkle
-When it sees a shiny object
-It knows it's"
-53.0,persian,urban,"PERSIAN has six bold whiskers that give
-it a look of toughness. The whiskers  
-sense air movements to determine whatis in the POKéMON’s surrounding
-vicinity. It becomes docile if grabbed
-by the whiskers.",pay-day,PERSIAN has six bold whiskers that give it a look of toughness. The whiskers   sense air movements to determine what is in the PERSIAN’s surrounding vicinity. It becomes docile if grabbed by the whiskers.,"Prediction:
- The Persian cat
-With its six whiskers
-Is tough and brave.
-"
-54.0,psyduck,waters-edge,"PSYDUCK uses a mysterious power.
-When it does so, this POKéMON 
-generates brain waves that aresupposedly only seen in sleepers.
-This discovery spurred controversy
-among scholars.",mega-punch,"PSYDUCK uses a mysterious power. When it does so, this PSYDUCK  generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.","Prediction:
- PSYDUCK
-
- generating brain waves
-
-known as a sleeping pill."
-55.0,golduck,waters-edge,"The webbed flippers on its forelegs and
-hind legs and the streamlined body of
-GOLDUCK give it frightening speed.This POKéMON is definitely much faster
-than even the most athletic swimmer.",mega-punch,The webbed flippers on its forelegs and hind legs and the streamlined body of GOLDUCK give it frightening speed. This GOLDUCK is definitely much faster than even the most athletic swimmer.,"Prediction:
- The water's edge
-Golduck flies
-A frightening speed"
-56.0,mankey,mountain,"When MANKEY starts shaking and its
-nasal breathing turns rough, it’s a sure
-sign that it is becoming angry.However, because it goes into a
-towering rage almost instantly, it is
-impossible for anyone to flee its wrath.",karate-chop,"When MANKEY starts shaking and its nasal breathing turns rough, it’s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.","Prediction:
- Mankey,
-A rage with a purpose,
-A manky rage."
-57.0,primeape,mountain,"When PRIMEAPE becomes furious, its
-blood circulation is boosted. In turn,
-its muscles are made even stronger.However, it also becomes much less
-intelligent at the same time.",karate-chop,"When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.","Prediction:
- When primeape is mad
-
-Blood circulates
-
-And grows muscles
-
-That's stronger than steel.
-"
-58.0,growlithe,grassland,"GROWLITHE has a superb sense of smell.
-Once it smells anything, this POKéMON
-won’t forget the scent, no matter what.It uses its advanced olfactory sense
-to determine the emotions of other
-living things.",double-kick,"GROWLITHE has a superb sense of smell. Once it smells anything, this GROWLITHE won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.","Prediction:
- Growlithe’s sense of smell,
-
-Is always fresh.
-"
-59.0,arcanine,grassland,"ARCANINE is known for its high speed.
-It is said to be capable of running over
-6,200 miles in a single day and night.The fire that blazes wildly within this
-POKéMON’s body is its source of power.",headbutt,"ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this ARCANINE’s body is its source of power.","Prediction:
- ARCANINE is a Dragon/Electric type Pokémon.
-ARCANINE is known for its high speed.
-It is"
-60.0,poliwag,waters-edge,"POLIWAG has a very thin skin. It is
-possible to see the POKéMON’s spiral
-innards right through the skin.Despite its thinness, however, the skin
-is also very flexible. Even sharp fangs
-bounce right off it.",pound,"POLIWAG has a very thin skin. It is possible to see the POLIWAG’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.","Prediction:
- A very thin skin,
-
-And a spiral inside, 
-Is what makes poliwag
-
-A very interesting"
-61.0,poliwhirl,waters-edge,"The surface of POLIWHIRL’s body is
-always wet and slick with an oily fluid.
-Because of this greasy covering, it caneasily slip and slide out of the clutches
-of any enemy in battle.",pound,"The surface of POLIWHIRL’s body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.","Prediction:
- The polished body
-Is slick with oil.
-The poliwhirl."
-62.0,poliwrath,waters-edge,"POLIWRATH’s highly developed, brawny
-muscles never grow fatigued, however
-much it exercises.It is so tirelessly strong, this POKéMON
-can swim back and forth across the
-Pacific Ocean without effort.",pound,"POLIWRATH’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POLIWRATH can swim back and forth across the Pacific Ocean without effort.","Prediction:
- Poliwrath
-
-Lives in the waters' edge,
-
-Can swim across the Pacific Ocean."
-63.0,abra,urban,"ABRA sleeps for eighteen hours a day.
-However, it can sense the presence of
-foes even while it is sleeping.In such a situation, this POKéMON
-immediately teleports to safety.",mega-punch,"ABRA sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this ABRA immediately teleports to safety.","Prediction:
- ABRA slept so much
-
-That I could see the move
-
-It makes!"
-64.0,kadabra,urban,"KADABRA emits a peculiar alpha wave
-if it develops a headache. Only those
-people with a particularly strongpsyche can hope to become a TRAINER
-of this POKéMON.",mega-punch,KADABRA emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a TRAINER of this KADABRA.,"Prediction:
- This is a Haiku poem about the Pokémon Kadabra.
-
-Kadabra,
-
-A head
-
-That"
-65.0,alakazam,urban,"ALAKAZAM’s brain continually grows,
-making its head far too heavy to
-support with its neck.This POKéMON holds its head up using
-its psychokinetic power instead.",mega-punch,"ALAKAZAM’s brain continually grows, making its head far too heavy to support with its neck. This ALAKAZAM holds its head up using its psychokinetic power instead.","Prediction:
- ALAKAZAM, alakazam, head too heavy;
-Its brain grows, never stops.
-Its"
-66.0,machop,mountain,"It trains by
-lifting rocks in
-the mountains. Itcan even pick up a
-GRAVELER with
-ease.",karate-chop,It trains by lifting rocks in the mountains. It can even pick up a GRAVELER with ease.,"Prediction:
- Machop the cat
-Is a powerful Pokemon
-That trains with the best
-Of the mountain."
-67.0,machoke,mountain,"MACHOKE’s thoroughly toned muscles
-possess the hardness of steel.
-This POKéMON has so much strength,it can easily hold aloft a sumo wrestler
-on just one finger.",karate-chop,"MACHOKE’s thoroughly toned muscles possess the hardness of steel. This MACHOKE has so much strength, it can easily hold aloft a sumo wrestler on just one finger.","Prediction:
- Hardness of steel,
-
-Machoke knows the move
-
-karate-chop
-
-Machoke lives in"
-68.0,machamp,mountain,"MACHAMP has the power to hurl anything
-aside. However, trying to do any work
-requiring care and dexterity causesits arms to get tangled.
-This POKéMON tends to leap into action
-before it thinks.",karate-chop,"MACHAMP has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This MACHAMP tends to leap into action before it thinks.","Prediction:
- Machamp, the Powerhouse
- Machamp, the Powerhouse
-In the Mountain."
-69.0,bellsprout,forest,"BELLSPROUT’s thin and flexible body
-lets it bend and sway to avoid any
-attack, however strong it may be.From its mouth, this POKéMON spits a
-corrosive fluid that melts even iron.",swords-dance,"BELLSPROUT’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this BELLSPROUT spits a corrosive fluid that melts even iron.","Prediction:
- A thin-limbed Bellsprout,
-
-Furtively avoiding
-
-Any and all attacks."
-70.0,weepinbell,forest,"WEEPINBELL has a large hook on its rear
-end. At night, the POKéMON hooks on to
-a tree branch and goes to sleep.If it moves around in its sleep, it may
-wake up to find itself on the ground.",swords-dance,"WEEPINBELL has a large hook on its rear end. At night, the WEEPINBELL hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.","Prediction:
- The weepinbell sleep
-And dream
-Of the dream
-"
-71.0,victreebel,forest,"This horrifying
-plant POKéMON at­
-tracts prey witharomatic honey,
-then melts them in
-its mouth.",swords-dance,"This horrifying plant VICTREEBEL at­ tracts prey with aromatic honey, then melts them in its mouth.","Prediction:
- In the forest, there is a
-
-frightening plant:
-
-VICTREEBEL!
-
-And it"
-72.0,tentacool,sea,"TENTACOOL’s body is largely composed
-of water. If it is removed from the
-sea, it dries up like parchment.If this POKéMON happens to become
-dehydrated, put it back into the sea.",swords-dance,"TENTACOOL’s body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this TENTACOOL happens to become dehydrated, put it back into the sea.","Prediction:
- In the sea, TENTACOOL swims
-A body of water,
-It becomes parchment.
-"
-73.0,tentacruel,sea,"TENTACRUEL has large red orbs on its
-head. The orbs glow before lashing the
-vicinity with a harsh ultrasonic blast.This POKéMON’s outburst creates rough
-waves around it.",swords-dance,TENTACRUEL has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This TENTACRUEL’s outburst creates rough waves around it.,"Prediction:
- A TENTACRUEL's head
-Glows, it whips
-A harsh burst."
-74.0,geodude,mountain,"The longer a GEODUDE lives, the more
-its edges are chipped and worn away,
-making it more rounded in appearance.However, this POKéMON’s heart will
-remain hard, craggy, and rough always.",mega-punch,"The longer a GEODUDE lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this GEODUDE’s heart will remain hard, craggy, and rough always.","Prediction:
- Geodude
-Geodude, geodude
-Geodude lives in the mountains."
-75.0,graveler,mountain,"It travels by rol­
-ling on mountain
-paths. If it gainstoo much speed, it
-stops by running
-into huge rocks.",mega-punch,"It travels by rol­ ling on mountain paths. If it gains too much speed, it stops by running into huge rocks.","Prediction:
- It roams on mountain paths
-By nature's grace.
-The graveler, the
-Fist of nature."
-76.0,golem,mountain,"GOLEM live up on mountains.
-If there is a large earthquake, these
-POKéMON will come rolling down offthe mountains en masse to the
-foothills below.",mega-punch,"GOLEM live up on mountains. If there is a large earthquake, these GOLEM will come rolling down off the mountains en masse to the foothills below.","Prediction:
- In the mountain,
-A Golem
-Lives.
-"
-77.0,ponyta,grassland,"PONYTA is very weak at birth.
-It can barely stand up.
-This POKéMON becomes stronger bystumbling and falling to keep up with
-its parent.",stomp,PONYTA is very weak at birth. It can barely stand up. This PONYTA becomes stronger by stumbling and falling to keep up with its parent.,"Prediction:
- A very weak ponyta,
-It can hardly stand up.
-Its mother,
-Stumbling and falling,
-G"
-78.0,rapidash,grassland,"It just loves to
-gallop. The faster
-it goes, the long­er the swaying
-flames of its mane
-will become.",pay-day,"It just loves to gallop. The faster it goes, the long­ er the swaying flames of its mane will become.","Prediction:
- A Rapidash gallops on,
-Its mane swaying
-And it just loves to gallop.
-"
-79.0,slowpoke,waters-edge,"A sweet sap leaks
-from its tail's
-tip. Although notnutritious, the
-tail is pleasant
-to chew on.",pay-day,"A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.","Prediction:
- Slowpoke
-Leaks from its tail's tip
-A small drop of juice."
-80.0,slowbro,waters-edge,"SLOWBRO’s tail has a SHELLDER firmly
-attached with a bite. As a result, the
-tail can’t be used for fishing anymore.This causes SLOWBRO to grudgingly swim
-and catch prey instead.",mega-punch,"SLOWBRO’s tail has a SHELLDER firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.","Prediction:
- Slowbro’s shellacked,
-Sinking in like a stone;
-In water’s edge.
-"
-81.0,magnemite,rough-terrain,"MAGNEMITE attaches itself to power
-lines to feed on electricity.
-If your house has a power outage,check your circuit breakers. You may
-find a large number of this POKéMON
-clinging to the breaker box.",headbutt,"MAGNEMITE attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this MAGNEMITE clinging to the breaker box.","Prediction:
- There are thousands of
-
- MAGNEMITE clinging to power lines.
-
-It knows the move headbutt."
-82.0,magneton,rough-terrain,"MAGNETON emits a powerful magnetic
-force that is fatal to mechanical
-devices. As a result, large cities soundsirens to warn citizens of large-scale
-outbreaks of this POKéMON.",headbutt,"MAGNETON emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this MAGNETON.","Prediction:
- The sound of a siren
-
-Shuts out the noise
-
-Of a magneton."
-83.0,farfetchd,grassland,"FARFETCH’D is always seen with a stick
-from a plant of some sort. Apparently,
-there are good sticks and bad sticks.This POKéMON has been known to fight
-with others over sticks.",razor-wind,"FARFETCH’D is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This FARFETCHD has been known to fight with others over sticks.","Prediction:
- A stick from a plant,
-
-A stick.
-
-A stick with a broken head."
-84.0,doduo,grassland,"DODUO’s two heads never sleep at the
-same time.
-Its two heads take turns sleeping,so one head can always keep watch for
-enemies while the other one sleeps.",swords-dance,"DODUO’s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.","Prediction:
- A pair of twin heads -
-Doduo -
-Sleep in turns -"
-85.0,dodrio,grassland,"An enemy that
-takes its eyes off
-any of the threeheads--even for a
-second--will get
-pecked severely.",swords-dance,An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.,"Prediction:
- Dodrio the Three-Headed Monster
-
-A threat, ever since the beginning
-
-Of the game."
-86.0,seel,sea,"SEEL hunts for prey in the frigid sea
-underneath sheets of ice.
-When it needs to breathe, it punchesa hole through the ice with the
-sharply protruding section of its head.",pay-day,"SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.","Prediction:
- SEEL, a Pokemon that hunts
-In the freezing sea,
-Under sheets of ice."
-87.0,dewgong,sea,"DEWGONG loves to snooze on bitterly
-cold ice.
-The sight of this POKéMON sleeping ona glacier was mistakenly thought to be
-a mermaid by a mariner long ago.",pay-day,DEWGONG loves to snooze on bitterly cold ice. The sight of this DEWGONG sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.,"Prediction:
- DEWGONG,
-Loves to snooze
-On bitterly cold ice.
-I wonder if the mariner
-"
-88.0,grimer,urban,"GRIMER’s sludgy and rubbery body can
-be forced through any opening, however
-small it may be.This POKéMON enters sewer pipes to
-drink filthy wastewater.",pound,"GRIMER’s sludgy and rubbery body can be forced through any opening, however small it may be. This GRIMER enters sewer pipes to drink filthy wastewater.","Prediction:
- Grimer,
-Grimer
-Sludgy and rubbery
-Likes to go in pipes."
-89.0,muk,urban,"From MUK’s body seeps a foul fluid that
-gives off a nose-bendingly horrible
-stench.Just one drop of this POKéMON’s body
-fluid can turn a pool stagnant and
-rancid.",pound,From MUK’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this MUK’s body fluid can turn a pool stagnant and rancid.,"Prediction:
- From the body seeps a terrible stench,
-A drop of this muk's body fluid
-Turns a pool"
-90.0,shellder,sea,"At night, this POKéMON uses its broad
-tongue to burrow a hole in the seafloor
-sand and then sleep in it.While it is sleeping, SHELLDER closes its
-shell, but leaves its tongue hanging
-out.",headbutt,"At night, this SHELLDER uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.","Prediction:
- Shellder, the sleeping sea monster
-With a broad tongue, it burrows;
-Then, while sleeping, shell"
-91.0,cloyster,sea,"CLOYSTER is capable of swimming in the
-sea. It does so by swallowing water,
-then jetting it out toward the rear.This POKéMON shoots spikes from its
-shell using the same system.",headbutt,"CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This CLOYSTER shoots spikes from its shell using the same system.","Prediction:
- In the deep sea, the Cloyster swims,
-Swallowed water in its mouth.
-Then it spits"
-92.0,gastly,cave,"GASTLY is largely composed of gaseous
-matter. When exposed to a strong wind,
-the gaseous body quickly dwindles away.Groups of this POKéMON cluster under
-the eaves of houses to escape the
-ravages of wind.",fire-punch,"GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this GASTLY cluster under the eaves of houses to escape the ravages of wind.","Prediction:
- GASTLY, mostly gaseous,
-Is driven away by wind,
-Then clusters under eaves."
-93.0,haunter,cave,"HAUNTER is a dangerous POKéMON.
-If one beckons you while floating in
-darkness, you must never approach it.This POKéMON will try to lick you with its
-tongue and steal your life away.",fire-punch,"HAUNTER is a dangerous HAUNTER. If one beckons you while floating in darkness, you must never approach it. This HAUNTER will try to lick you with its tongue and steal your life away.","Prediction:
- The Haunter lives in the cave,
-Stealing lives away with its tongue.
-Be careful when you see its light"
-94.0,gengar,cave,"Sometimes, on a dark night, your shadow
-thrown by a streetlight will suddenly
-and startlingly overtake you.It is actually a GENGAR running past
-you, pretending to be your shadow.",mega-punch,"Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.","Prediction:
- The gengar is a Pokémon that resembles a large, black cat with a red marking on its forehead.
-A g"
-95.0,onix,cave,"ONIX has a magnet in its brain. It acts
-as a compass so that this POKéMON does
-not lose direction while it is tunneling.As it grows older, its body becomes
-increasingly rounder and smoother.",bind,"ONIX has a magnet in its brain. It acts as a compass so that this ONIX does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.","Prediction:
- Onix
-The brain
-A small,
-Magnetic
-"
-96.0,drowzee,grassland,"If your nose becomes itchy while you
-are sleeping, it’s a sure sign that one
-of these POKéMON is standing aboveyour pillow and trying to eat your dream
-through your nostrils.",pound,"If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these DROWZEE is standing above your pillow and trying to eat your dream through your nostrils.","Prediction:
- Drowzee
-
-A drowzee sits above
-
-My pillow,
-
-Washing my dream
-"
-97.0,hypno,grassland,"HYPNO holds a pendulum in its hand.
-The arcing movement and glitter of the
-pendulum lull the foe into a deep stateof hypnosis.
-While this POKéMON searches for prey,
-it polishes the pendulum.",pound,"HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this HYPNO searches for prey, it polishes the pendulum.","Prediction:
- A pendulum
-
-Moves in an arcing, glimmering
-
-way.
-"
-98.0,krabby,waters-edge,"KRABBY live on beaches, burrowed inside
-holes dug into the sand.
-On sandy beaches with little in the wayof food, these POKéMON can be seen
-squabbling with each other over
-territory.",vice-grip,"KRABBY live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these KRABBY can be seen squabbling with each other over territory.","Prediction:
- In the squabble between krabby holes
-
-On the sandy beach,
-
-There is no territory."
-99.0,kingler,waters-edge,"KINGLER has an enormous, oversized
-claw. It waves this huge claw in the
-air to communicate with others.However, because the claw is so heavy,
-the POKéMON quickly tires.",vice-grip,"KINGLER has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the KINGLER quickly tires.","Prediction:
- A Kingler by the name
-
-Says to his claw
-
-""I am the king"".
-"
-100.0,voltorb,urban,"VOLTORB was first sighted at a company
-that manufactures POKé BALLS.
-The link between that sighting andthe fact that this POKéMON looks very
-similar to a POKé BALL remains a
-mystery.",headbutt,VOLTORB was first sighted at a company that manufactures POKé BALLS. The link between that sighting and the fact that this VOLTORB looks very similar to a POKé BALL remains a mystery.,"Prediction:
- At a company that manufactures Poké Balls
-
-A mystery surrounds the link
-
-A Voltorb."
-101.0,electrode,urban,"ELECTRODE eats electricity in the
-atmosphere. On days when lightning
-strikes, you can see this POKéMONexploding all over the place from
-eating too much electricity.",headbutt,"ELECTRODE eats electricity in the atmosphere. On days when lightning strikes, you can see this ELECTRODE exploding all over the place from eating too much electricity.","Prediction:
- Electrode
-Eats electricity
-On days when lightning strikes.
-"
-102.0,exeggcute,forest,"This POKéMON consists of six eggs that
-form a closely knit cluster. The six eggs
-attract each other and spin around.When cracks increasingly appear on the
-eggs, EXEGGCUTE is close to evolution.",swords-dance,"This EXEGGCUTE consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.","Prediction:
- The six eggs spin,
-And the EXEGGCUTE
-Is close to evolution."
-103.0,exeggutor,forest,"EXEGGUTOR originally came from the
-tropics. Its heads steadily grow larger
-from exposure to strong sunlight.It is said that when the heads fall off,
-they group together to form EXEGGCUTE.",swords-dance,"EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE.","Prediction:
- In the forest, where the sun shines,
-Exeggutor, with its wide head,
-Goes to the place"
-104.0,cubone,mountain,"CUBONE pines for the mother it will
-never see again. Seeing a likeness of
-its mother in the full moon, it cries.The stains on the skull the POKéMON
-wears are made by the tears it sheds.",mega-punch,"CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the CUBONE wears are made by the tears it sheds.","Prediction:
- CUBONE
-
-I pine for the mother
-
-I never see again.
-
-In the full moonlight I"
-105.0,marowak,mountain,"Somewhere in the
-world is a ceme­
-tery just forMAROWAK. It gets
-its bones from
-those graves.",mega-punch,Somewhere in the world is a ceme­ tery just for MAROWAK. It gets its bones from those graves.,"Prediction:
- In some faraway place a cemetery just for Marowak.
-The bones, the graves, and Marowak."
-106.0,hitmonlee,urban,"HITMONLEE’s legs freely contract and
-stretch. Using these springlike legs, it
-bowls over foes with devastating kicks.After battle, it rubs down its legs and
-loosens the muscles to overcome
-fatigue.",mega-punch,"HITMONLEE’s legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.","Prediction:
- Legs that stretch, and kick for miles –
-A punch from the sky, a devastating blow."
-107.0,hitmonchan,urban,"HITMONCHAN is said to possess the
-spirit of a boxer who had been working
-towards a world championship.This POKéMON has an indomitable spirit
-and will never give up in the face of
-adversity.",comet-punch,HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This HITMONCHAN has an indomitable spirit and will never give up in the face of adversity.,"Prediction:
- They say a hitmonchan's
-
-A hitmonchan's spirit
-Is the boxer's.
-"
-108.0,lickitung,grassland,"Whenever LICKITUNG comes across
-something new, it will unfailingly give it
-a lick. It does so because it memorizesthings by texture and by taste.
-It is somewhat put off by sour things.",mega-punch,"Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.","Prediction:
- Whenever LICKITUNG comes across something new,
-It gives it a lick,
-And memorizes it.
-"
-109.0,koffing,urban,"If KOFFING becomes agitated, it raises
-the toxicity of its internal gases and
-jets them out from all over its body.This POKéMON may also overinflate its
-round body, then explode.",headbutt,"If KOFFING becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This KOFFING may also overinflate its round body, then explode.","Prediction:
- Koffing
-
- know the headbutt
-
-Koffing lives in urban."
-110.0,weezing,urban,"WEEZING loves the gases given off by
-rotted kitchen garbage. This POKéMON
-will find a dirty, unkempt house andmake it its home. At night, when the
-people in the house are asleep, it will
-go through the trash.",headbutt,"WEEZING loves the gases given off by rotted kitchen garbage. This WEEZING will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.","Prediction:
- WEEZING loves the gases
-Of rotted kitchen garbage.
-A dirty, unkempt house
-Is a"
-111.0,rhyhorn,rough-terrain,"RHYHORN runs in a straight line,
-smashing everything in its path.
-It is not bothered even if it rushesheadlong into a block of steel.
-This POKéMON may feel some pain from
-the collision the next day, however.",swords-dance,"RHYHORN runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This RHYHORN may feel some pain from the collision the next day, however.","Prediction:
- RHYHORN runs with a straight line
-At full speed, never stopping
-It smashs everything in its path"
-112.0,rhydon,rough-terrain,"RHYDON’s horn can crush even uncut
-diamonds. One sweeping blow of its tail
-can topple a building.This POKéMON’s hide is extremely tough.
-Even direct cannon hits don’t leave
-a scratch.",mega-punch,RHYDON’s horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This RHYDON’s hide is extremely tough. Even direct cannon hits don’t leave a scratch.,"Prediction:
- It can crush diamonds,
-
-The mighty rhydon.
-
-The very tough rhadon.
-"
-113.0,chansey,urban,"CHANSEY lays nutritionally excellent
-eggs on an everyday basis.
-The eggs are so delicious, they areeasily and eagerly devoured by even
-those people who have lost their
-appetite.",pound,"CHANSEY lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.","Prediction:
- Chansey -
-A Pokemon that lays excellent
-Eggs for everyone.
-"
-114.0,tangela,grassland,"TANGELA’s vines snap off easily if they
-are grabbed. This happens without pain,
-allowing it to make a quick getaway.The lost vines are replaced by newly
-grown vines the very next day.",swords-dance,"TANGELA’s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.","Prediction:
- Tangela's vines are
-Always ready to snap off.
-And quickly grow back again."
-115.0,kangaskhan,grassland,"If you come across a young KANGASKHAN
-playing by itself, you must never
-disturb it or attempt to catch it.The baby POKéMON’s parent is sure to
-be in the area, and it will become
-violently enraged at you.",pound,"If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby KANGASKHAN’s parent is sure to be in the area, and it will become violently enraged at you.","Prediction:
- A baby kangaskhan plays,
-But you mustn't come near.
-Don't you dare!"
-116.0,horsea,sea,"HORSEA eats small insects and moss off
-of rocks. If the ocean current turns
-fast, this POKéMON anchors itself bywrapping its tail around rocks or coral
-to prevent being washed away.",razor-wind,"HORSEA eats small insects and moss off of rocks. If the ocean current turns fast, this HORSEA anchors itself by wrapping its tail around rocks or coral to prevent being washed away.","Prediction:
- A HORSEA swims in the deep blue sea
-Eats small insects off rocks
-anchored by its tail."
-117.0,seadra,sea,"SEADRA sleeps after wriggling itself
-between the branches of coral.
-Those trying to harvest coral areoccasionally stung by this POKéMON’s
-poison barbs if they fail to notice it.",headbutt,SEADRA sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this SEADRA’s poison barbs if they fail to notice it.,"Prediction:
- Seadra, with its poisonous
-
-Barbs,
-
-Wriggled
-
-Between the coral branches."
-118.0,goldeen,waters-edge,"GOLDEEN is a very beautiful POKéMON
-with fins that billow elegantly in water.
-However, don’t let your guard downaround this POKéMON - it could ram you
-powerfully with its horn.",swords-dance,"GOLDEEN is a very beautiful GOLDEEN with fins that billow elegantly in water. However, don’t let your guard down around this GOLDEEN - it could ram you powerfully with its horn.","Prediction:
- A beautiful Goldeen,
-
-With fins that billow
-
-And a horn that can Ram.
-"
-119.0,seaking,waters-edge,"When autumn comes,
-the males patrol
-the area aroundtheir nests in
-order to protect
-their offspring.",swords-dance,"When autumn comes, the males patrol the area around their nests in order to protect their offspring.","Prediction:
- The seaking,
-With its red scales
-And its blue paws,
- patrolled the edge
-Of the water."
-120.0,staryu,sea,"When the stars
-twinkle at night,
-it floats up fromthe sea floor, and
-its body's center
-core flickers.",headbutt,"When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers.","Prediction:
- When the stars twinkle,
-
-Staryu floats above.
-
-And its body's center core
-
-Fl"
-121.0,starmie,sea,"STARMIE’s center section - the core -
-glows brightly in seven colors.
-Because of its luminous nature, thisPOKéMON has been given the nickname
-“the gem of the sea.”",headbutt,"STARMIE’s center section - the core - glows brightly in seven colors. Because of its luminous nature, this STARMIE has been given the nickname “the gem of the sea.”","Prediction:
- A star mine, glows bright
-In the sea's heart
-Is the starmie."
-122.0,mr-mime,urban,"MR. MIME is a master of pantomime.
-Its gestures and motions convince
-watchers that something unseeableactually exists. Once it is believed,
-it will exist as if it were a real thing.",pound,"MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.","Prediction:
- A pantomime master
-With gestures and motions
-It convinces a viewer,
-That which cannot be seen.
-"
-123.0,scyther,grassland,"풀숲에서 갑자기 튀어나와
-예리한 낫으로 베어 가르는 모습은
-마치 닌자 같다.",razor-wind,풀숲에서 갑자기 튀어나와 예리한 낫으로 베어 가르는 모습은 마치 닌자 같다.,"Prediction:
- In the midst of tall grass,
-
-Scyther knows the move
-
-Razored-wind.
-
-"
-124.0,jynx,urban,"JYNX walks rhythmically, swaying and
-shaking its hips as if it were dancing.
-Its motions are so bouncingly alluring,people seeing it are compelled to shake
-their hips without giving any thought
-to what they are doing.",pound,"JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.","Prediction:
- Jynx, the urban dance
-A body in motion,
-The rhythm of life
-"
-125.0,electabuzz,grassland,"When a storm arrives, gangs of this
-POKéMON compete with each other to
-scale heights that are likely to bestricken by lightning bolts.
-Some towns use ELECTABUZZ in place of
-lightning rods.",mega-punch,"When a storm arrives, gangs of this ELECTABUZZ compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.","Prediction:
- Gangs of electabuzz
- compete,
- for lightning.
-
-It lives in grassland."
-126.0,magmar,mountain,"In battle, MAGMAR blows out intensely
-hot flames from all over its body to
-intimidate its opponent.This POKéMON’s fiery bursts create
-heat waves that ignite grass and trees
-in its surroundings.",mega-punch,"In battle, MAGMAR blows out intensely hot flames from all over its body to intimidate its opponent. This MAGMAR’s fiery bursts create heat waves that ignite grass and trees in its surroundings.","Prediction:
- Its body is aflame
-Intense heat waves
- Magmar lives in the mountains."
-127.0,pinsir,forest,"PINSIR is astoundingly strong. It can
-grip a foe weighing twice its weight
-in its horns and easily lift it.This POKéMON’s movements turn sluggish
-in cold places.",vice-grip,PINSIR is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This PINSIR’s movements turn sluggish in cold places.,"Prediction:
- PINSIR
-
-Holds up a 200-pound foe
-With one finger
-In its horns
-
-In a"
-128.0,tauros,grassland,"This POKéMON is not satisfied unless
-it is rampaging at all times.
-If there is no opponent for TAUROS tobattle, it will charge at thick trees and
-knock them down to calm itself.",stomp,"This TAUROS is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.","Prediction:
- Tauros rampages
-
-The grass
-Is the best place to stomp."
-129.0,magikarp,waters-edge,"MAGIKARP is a pathetic excuse for a
-POKéMON that is only capable of
-flopping and splashing.This behavior prompted scientists to
-undertake research into it.",tackle,MAGIKARP is a pathetic excuse for a MAGIKARP that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.,"Prediction:
- A magikarp in the pond
-
-Flops and splashes
-
-The magikarp lives in the water's"
-130.0,gyarados,waters-edge,"Once it appears,
-it goes on a ram­
-page. It remainsenraged until it
-demolishes every­
-thing around it.",bind,"Once it appears, it goes on a ram­ page. It remains enraged until it demolishes every­ thing around it.","Prediction:
- Gyarados
-Once it appears, it goes on a ram's
-Page.
-It remains enraged until
-It demol"
-131.0,lapras,sea,"People have driven LAPRAS almost to the
-point of extinction. In the evenings,
-this POKéMON is said to sing plaintivelyas it seeks what few others of its kind
-still remain.",headbutt,"People have driven LAPRAS almost to the point of extinction. In the evenings, this LAPRAS is said to sing plaintively as it seeks what few others of its kind still remain.","Prediction:
- The rare Lapras
-Preyed by man
-Is said to sing
-Plaintive songs
-As it seeks
-"
-132.0,ditto,urban,"DITTO rearranges its cell structure to
-transform itself into other shapes.
-However, if it tries to transform itselfinto something by relying on its memory,
-this POKéMON manages to get details
-wrong.",transform,"DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this DITTO manages to get details wrong.","Prediction:
- DITTO lives in urban
-
-It transforms,
-
-But gets the details wrong."
-133.0,eevee,urban,"EEVEE has an unstable genetic makeup
-that suddenly mutates due to the
-environment in which it lives.Radiation from various STONES causes
-this POKéMON to evolve.",pay-day,EEVEE has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various STONES causes this EEVEE to evolve.,"Prediction:
- Eevee, the Pokemon with the unstable genome
-
-The environment changes,
-
-And mutates.
-"
-134.0,vaporeon,urban,"VAPOREON underwent a spontaneous
-mutation and grew fins and gills that
-allow it to live underwater.This POKéMON has the ability to freely
-control water.",pay-day,VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This VAPOREON has the ability to freely control water.,"Prediction:
- Vaporeon
-A small,
-Fins and gills,
-Underwater.
-"
-135.0,jolteon,urban,"JOLTEON’s cells generate a low level of
-electricity. This power is amplified by
-the static electricity of its fur,enabling the POKéMON to drop
-thunderbolts. The bristling fur is made
-of electrically charged needles.",pay-day,"JOLTEON’s cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the JOLTEON to drop thunderbolts. The bristling fur is made of electrically charged needles.","Prediction:
- JOLTEON, a lightning bolt,
-A bolt of thunder,
-A lightning storm."
-136.0,flareon,urban,"FLAREON’s fluffy fur has a functional
-purpose - it releases heat into the air
-so that its body does not getexcessively hot.
-This POKéMON’s body temperature can
-rise to a maximum of 1,650 degrees F.",pay-day,"FLAREON’s fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This FLAREON’s body temperature can rise to a maximum of 1,650 degrees F.","Prediction:
- Flareon's body releases heat
-Its body temperature can rise
-Up to 1,650 degrees.
-"
-137.0,porygon,urban,"Si ritiene che sia l’unico Pokémon in grado
-di volare fino allo spazio, ma ad oggi non è
-ancora successo.",headbutt,"Si ritiene che sia l’unico Pokémon in grado di volare fino allo spazio, ma ad oggi non è ancora successo.","Prediction:
- The headbutt,
-
-Is the only move
-
-It knows.
-
-It lives in the city."
-138.0,omanyte,sea,"OMANYTE is one of the ancient and long-
-since-extinct POKéMON that have been
-regenerated from fossils by people.If attacked by an enemy, it withdraws
-itself inside its hard shell.",bind,"OMANYTE is one of the ancient and long- since-extinct OMANYTE that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.","Prediction:
- OMANYTE
-
-One of the ancient
-
-That have been regenerated by people
-
-With the move: bind"
-139.0,omastar,sea,"OMASTAR uses its tentacles to capture
-its prey. It is believed to have become
-extinct because its shell grew too largeand heavy, causing its movements to
-become too slow and ponderous.",bind,"OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.","Prediction:
- Oma star,
+A weedle
+
+ Lives and knows
+
+The move poison-sting."
+14.0,kakuna,forest,"Almost incapable of moving, this POKéMON
+can only harden its shell to protect
+itself when it is in danger.",string-shot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/14.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/14.gif,"Almost incapable of moving, this KAKUNA can only harden its shell to protect itself when it is in danger.","Prediction:
+ A kakuna with
 
 A shell
 
-Of a weight
-
-Of a million tons.
+Is almost inaction.
 "
-140.0,kabuto,sea,"KABUTO is a POKéMON that has been
-regenerated from a fossil. However, in
-extremely rare cases, living exampleshave been discovered.
-The POKéMON has not changed at all for
-300 million years.",scratch,"KABUTO is a KABUTO that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The KABUTO has not changed at all for 300 million years.","Prediction:
- Kabuto
-The ancient kabuto
-Is a kabuto that has
-Regenerated from a fossil.
+15.0,beedrill,forest,"May appear in a swarm. Flies at violent
+speeds, all the while stabbing with the
+toxic stinger on its rear.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/15.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/15.gif,"May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.","Prediction:
+ Swarms of beedrill
+Stabbing at the air
+With their stinger."
+16.0,pidgey,forest,"A common sight in forests and woods.
+It flaps its wings at ground level to kick
+up blinding sand.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/16.gif,A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.,"Prediction:
+ Pidgey, the Pokemon of the forest
+Who lives in the forest, knows the move
+Razors-wind"
+17.0,pidgeotto,forest,"Very protective of its sprawling
+territorial area, this POKéMON will
+fiercely peck at any intruder.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/17.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/17.gif,"Very protective of its sprawling territorial area, this PIDGEOTTO will fiercely peck at any intruder.","Prediction:
+ A PIDGEOTTO,  
+ protective of its   
+sprawling territory.
 "
-141.0,kabutops,sea,"It was able to
-swim quickly thro­
-ugh the water bycompactly folding
-up its razor-sharp
-sickles.",scratch,It was able to swim quickly thro­ ugh the water by compactly folding up its razor-sharp sickles.,"Prediction:
- Kabutops,
-Swimming
-With
-A folded pair of
-Razors."
-142.0,aerodactyl,mountain,"In prehistoric
-times, this
-POKéMON flewfreely and
-fearlessly through
-the skies.",razor-wind,"In prehistoric times, this AERODACTYL flew freely and fearlessly through the skies.","Prediction:
- AERODACTYL
-Fell to Earth in the prehistoric times.
-It lives in the mountain."
-143.0,snorlax,mountain,"SNORLAX’s typical day consists of
-nothing more than eating and sleeping.
-It is such a docile POKéMON that thereare children who use its expansive belly
-as a place to play.",mega-punch,SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile SNORLAX that there are children who use its expansive belly as a place to play.,"Prediction:
- Snorlax
+18.0,pidgeot,forest,"When hunting, it skims the surface of
+water at high speed to pick off unwary
+prey such as MAGIKARP.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/18.gif,"When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.","Prediction:
+ Pidgeot is my favourite Pokemon
 
-Is nothing more
+Pidgeot is the fastest Pokemon
 
- Than eating
-
-And sleeping."
-144.0,articuno,rare,"ARTICUNO is a legendary bird POKéMON
-that can control ice.
-The flapping of its wings chills the air.As a result, it is said that when this
-POKéMON flies, snow will fall.",razor-wind,"ARTICUNO is a legendary bird ARTICUNO that can control ice. The flapping of its wings chills the air. As a result, it is said that when this ARTICUNO flies, snow will fall.","Prediction:
- Here is a three-line haiku about the Pokemon articuno:
-
-""Arcticuno,""
-
-A legendary"
-145.0,zapdos,rare,"Legendary bird
-POKéMON. They say
-lightning causedby the flapping of
-its wings causes
-summer storms.",razor-wind,Legendary bird ZAPDOS. They say lightning caused by the flapping of its wings causes summer storms.,"Prediction:
- ZAPDOS
-The legendary bird,
-Flails of its wings
-And causes summer storms.
+Pidgeot the Pokemon lives in"
+19.0,rattata,grassland,"Its fangs are long and very sharp.
+They grow continuously, so it gnaws on
+hard things to whittle them down.",cut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/19.gif,"Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.","Prediction:
+ A Pokemon named rattata
+Has sharp fangs
+It gnaws to
+Whittle them down."
+20.0,raticate,grassland,"Its rear feet have three toes each.
+They are webbed, enabling it to swim
+across rivers.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/20.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/20.gif,"Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.","Prediction:
+ A foot so large,
+An animal with three toes.
+It swims.
 "
-146.0,moltres,rare,"MOLTRES is a legendary bird POKéMON
-that has the ability to control fire.
-If this POKéMON is injured, it is said todip its body in the molten magma of a
-volcano to burn and heal itself.",razor-wind,"MOLTRES is a legendary bird MOLTRES that has the ability to control fire. If this MOLTRES is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.","Prediction:
- The legendary bird of Moltres,
+21.0,spearow,rough-terrain,"It busily flits around here and there.
+Even if it is frail, it can be a tough
+foe that uses MIRROR MOVE.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/21.gif,"It busily flits around here and there. Even if it is frail, it can be a tough foe that uses MIRROR MOVE.","Prediction:
+ A spearow, busily flitting
+Faint but a tough foe,
+Can use the move ""mirror move"""
+22.0,fearow,rough-terrain,"With its huge and magnificent wings, it can
+keep aloft without ever having to land
+for rest.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/22.gif,"With its huge and magnificent wings, it can keep aloft without ever having to land for rest.","Prediction:
+ fearow,
+With its magnificent wings,
+Can keep aloft for hours.
+"
+23.0,ekans,grassland,"Moving silently and stealthily, it eats
+the eggs of birds, such as PIDGEY
+and SPEAROW, whole.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/23.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/23.gif,"Moving silently and stealthily, it eats the eggs of birds, such as PIDGEY and SPEAROW, whole.","Prediction:
+ A silent ekans,
+Stalking the eggs of
+The birds.
+"
+24.0,arbok,grassland,"It is rumored that the ferocious warning
+markings on its belly differ from area to
+area.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/24.gif,It is rumored that the ferocious warning markings on its belly differ from area to area.,"Prediction:
+ The ferocious arbok
+On its belly
+Doth differ from area to area."
+25.0,pikachu,forest,"When several of these POKéMON gather,
+their electricity can build and cause
+lightning storms.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/25.gif,"When several of these PIKACHU gather, their electricity can build and cause lightning storms.","Prediction:
+ PIKACHU
+Pikachu, the Electric Type
+Pikachu, the Pokemon with the power!"
+26.0,raichu,forest,"Its electric charges can reach even
+100,000 volts. Careless contact can cause
+even an Indian elephant to faint.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/26.gif,"Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.","Prediction:
+ The electric charge
 
-The ability to control fire,
+Of the raichu, 
+Is enough
 
-If it is injured.
+To make the
+
+Elephant
+"
+27.0,sandshrew,rough-terrain,"Burrows deep underground in arid locations
+far from water. It only emerges to hunt
+for prey.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/27.gif,Burrows deep underground in arid locations far from water. It only emerges to hunt for prey.,"Prediction:
+ sandshrew
+
+A deep burrow underground
+
+Scrate and out."
+28.0,sandslash,rough-terrain,"Curls up into a spiny ball when
+threatened. It can roll while curled up
+to attack or escape.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/28.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/28.gif,Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.,"Prediction:
+ A Pokémon called 'Sandslash'
+
+Live in the rough terrain
+It can curl up into a ball
+And"
+29.0,nidoran-f,grassland,"Although small, its venomous barbs render
+this POKéMON dangerous. The female has
+smaller horns.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/29.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/29.gif,"Although small, its venomous barbs render this NIDORAN-F dangerous. The female has smaller horns.","Prediction:
+ The nidoran-f
+
+In the grassland
+
+Scratches the ground."
+30.0,nidorina,grassland,"The female’s horns develop slowly.
+Prefers physical attacks such as clawing
+and biting.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/30.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/30.gif,The female’s horns develop slowly. Prefers physical attacks such as clawing and biting.,"Prediction:
+ nidorina
+
+A Pokemon with
+A pair of horns,
+They're as hard
+As the hooves
+"
+31.0,nidoqueen,grassland,"Its hard scales provide strong protection.
+It uses its hefty bulk to execute
+powerful moves.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif,Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.,"Prediction:
+ A Nidoqueen with scales
+
+A heavy bulk used for
+
+Powerful moves."
+32.0,nidoran-m,grassland,"It stiffens its ears to sense danger.
+The larger its horns, the more 
+powerful its secreted venom.",cut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/32.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/32.gif,"It stiffens its ears to sense danger. The larger its horns, the more  powerful its secreted venom.","Prediction:
+ nidoran-m lives in grassland
+The Pokemon ""nidoran-m""
+ knows the move ""cut"""
+33.0,nidorino,grassland,"Its horn is harder than a diamond.
+If it senses a hostile presence, all the
+barbs on its back bristle up at once, and it
+challenges the foe with all its might.",cut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/33.gif,"Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.","Prediction:
+ Nidorino lives in the grassland
+The horn is harder than a diamond.
+It challenges the foe with all its might"
+34.0,nidoking,grassland,"It uses its powerful tail in battle to
+smash, constrict, then break the prey’s
+bones.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif,"It uses its powerful tail in battle to smash, constrict, then break the prey’s bones.","Prediction:
+ A nidoking
+
+With a powerful tail
+
+Smashes, constricts,
+
+Then breaks bones."
+35.0,clefairy,mountain,"With its magical and cute appeal, it has 
+many admirers. It is rare and found only
+in certain areas.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/35.gif,"With its magical and cute appeal, it has  many admirers. It is rare and found only in certain areas.","Prediction:
+ A cute and magical Pokemon,
+
+A rare and beautiful Clefairy,
+
+Is found in the mountain.
+"
+36.0,clefable,mountain,"A timid fairy POKéMON that is rarely seen,
+it will run and hide the moment it senses
+people.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/36.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/36.gif,"A timid fairy CLEFABLE that is rarely seen, it will run and hide the moment it senses people.","Prediction:
+ Clear-view, a shy Pokemon,
+Is rarely seen
+With feet of light,
+A timid fairy."
+37.0,vulpix,grassland,"When it is born, it has just one snow-
+white tail. The tail splits from its tip as
+it grows older.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/37.gif,"When it is born, it has just one snow- white tail. The tail splits from its tip as it grows older.","Prediction:
+ A vulpix, with a snow-white tail
+Sunning itself in a grassland.
+It knows the move head"
+38.0,ninetales,grassland,"Very smart and very vengeful. Grabbing
+one of its many tails could result in a
+1,000-year curse.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/38.gif,"Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.","Prediction:
+ A very smart and vengeful Pokemon,
+
+The long-tailed Ninetales.
+
+A curse for 1,"
+39.0,jigglypuff,grassland,"When its huge eyes waver, it sings a
+mysteriously soothing melody that lulls
+its enemies to sleep.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/39.gif,"When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.","Prediction:
+ In the grass,
+The jigglypuff
+ Sing a song to put you to sleep."
+40.0,wigglytuff,grassland,"The body is soft and rubbery. When
+angered, it will suck in air and inflate
+itself to an enormous size.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/40.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/40.gif,"The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.","Prediction:
+ There lives a creature called Wiggles.
+It lives in grassland,
+And knows the move Pound."
+41.0,zubat,cave,"While living in pitch-black caverns, their
+eyes gradually grew shut and deprived
+them of vision. They use ultrasonic waves
+to detect obstacles.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/41.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/41.gif,"While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.","Prediction:
+ A zubat lives in the cave
+But it can't see.
+It uses its razor-wind
+To navigate"
+42.0,golbat,cave,"Once it bites, it will not stop draining
+energy from the victim even if it gets too
+heavy to fly.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/42.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/42.gif,"Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.","Prediction:
+ A cave,
+A Pokemon
+named Golbat
+with a razor-wind move."
+43.0,oddish,grassland,"During the day, it keeps its face buried
+in the ground. At night, it wanders around
+sowing its seeds.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/43.gif,"During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.","Prediction:
+ Oddish
+Is it morning or night?
+It's always hiding."
+44.0,gloom,grassland,"The fluid that oozes from its mouth isn’t
+drool. It is a nectar that is used to
+attract prey.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/44.gif,The fluid that oozes from its mouth isn’t drool. It is a nectar that is used to attract prey.,"Prediction:
+ A Pokemon called Gloom
+
+Is a fluid of honey
+
+That oozes from its mouth
+
+To attract"
+45.0,vileplume,grassland,"In seasons when it produces more pollen,
+the air around a VILEPLUME turns yellow
+with the powder as it walks. The pollen is
+highly toxic and causes paralysis.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/45.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/45.gif,"In seasons when it produces more pollen, the air around a VILEPLUME turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.","Prediction:
+ In the vileplume's yellow breath,
+
+The grass blades
+"
+46.0,paras,forest,"Burrows to suck tree roots. The mushrooms
+on its back grow by drawing nutrients from
+the bug host.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/46.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/46.gif,Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.,"Prediction:
+ A Pokemon named paras,
+
+With a body of burrows,
+
+And a mushroom back.
+"
+47.0,parasect,forest,"A host-parasite pair in which the parasite
+mushroom has taken over the host bug.
+Prefers damp places. ",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/47.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/47.gif,A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places. ,"Prediction:
+ Parasect lives in the forest,
+Scratches its body.
+It lives for many years.
+"
+48.0,venonat,forest,"Lives in the shadows of tall trees where
+it eats bugs. It is attracted by light
+at night.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/48.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/48.gif,Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.,"Prediction:
+ In the shadows of tall trees,
+
+Vengeance lives.
+
+They are attracted
+
+By the light,
+"
+49.0,venomoth,forest,"The wings are covered with dustlike
+scales. Every time it flaps its wings, it
+looses highly toxic dust.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/49.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/49.gif,"The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.","Prediction:
+ A Pokemon called venomoth
+
+Covered in dustlike scales
+
+Flaps its wings, loosing toxic dust"
+50.0,diglett,cave,"It burrows through the ground at a
+shallow depth. It leaves raised earth in
+its wake, making it easy to spot.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/50.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/50.gif,"It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.","Prediction:
+ A Diglett,
+
+Digging and leaving
+A telltale trail of
+
+Eggshells.
 
 "
-147.0,dratini,waters-edge,"DRATINI continually molts and sloughs
-off its old skin.
-It does so because the life energywithin its body steadily builds to reach
-uncontrollable levels.",bind,DRATINI continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.,"Prediction:
- Dratini, the dragon child
-He sloughs off his body to
-Build life of new.
+51.0,dugtrio,cave,"A team of DIGLETT triplets. It triggers
+huge earthquakes by burrowing 60 miles
+underground.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/51.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/51.gif,A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.,"Prediction:
+ A team of Diglett triplets.
+Underground and in the cave
+One scratch.
 "
-148.0,dragonair,waters-edge,"It is called the
-divine POKéMON.
-When its entirebody brightens
-slightly, the
-weather changes.",bind,"It is called the divine DRAGONAIR. When its entire body brightens slightly, the weather changes.","Prediction:
- Dragonair, called the divine DRAGONAIR
+52.0,meowth,urban,"All it does is sleep during the daytime.
+At night, it patrols its territory with its
+eyes aglow.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/52.gif,"All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.","Prediction:
+ A Pokemon called
+The meowth that
+ Lives in the city
+ Sleeps all day
+ But at night
+ It"
+53.0,persian,urban,"Although its fur has many admirers, it is
+tough to raise as a pet because of its
+fickle meanness.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/53.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/53.gif,"Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.","Prediction:
+ Persian cat
+A cat with long,
+Delicate ears.
+"
+54.0,psyduck,waters-edge,"While lulling its enemies with its vacant
+look, this wily POKéMON will use
+psychokinetic powers.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/54.gif,"While lulling its enemies with its vacant look, this wily PSYDUCK will use psychokinetic powers.","Prediction:
+ PSYDUCK
+A vacant look,
+And wily powers.
+It's a Psyduck."
+55.0,golduck,waters-edge,"The forelegs are webbed, helping to make
+it an adept swimmer. It can be seen
+swimming elegantly in lakes, etc.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/55.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/55.gif,"The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.","Prediction:
+ An elegant Golduck swims,
 
-The weather changes
+With the power of the punch,
 
- dragonair knows the move bind
+He makes water."
+56.0,mankey,mountain,"Extremely quick to anger. It could be
+docile one moment, then thrashing away 
+the next instant.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/56.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/56.gif,"Extremely quick to anger. It could be docile one moment, then thrashing away  the next instant.","Prediction:
+ A mankey's temper,
+
+Is as changeable
+
+As the wind."
+57.0,primeape,mountain,"Always furious and tenacious to boot.
+It will not abandon chasing its quarry
+until it catches up.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/57.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/57.gif,Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up.,"Prediction:
+ Primeape, the agile and feisty
+Is always on the lookout for
+A good Karate-chop!"
+58.0,growlithe,grassland,"It is very protective of its territory.
+It will bark and bite to repel intruders
+from its space.",double-kick,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/58.gif,It is very protective of its territory. It will bark and bite to repel intruders from its space.,"Prediction:
+ The grass growlithe lives
+Is very protective of its territory
+It barks and bites
+To keep out intruders."
+59.0,arcanine,grassland,"A POKéMON that has long been admired
+for its beauty. It runs agilely as if
+on wings.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/59.gif,A ARCANINE that has long been admired for its beauty. It runs agilely as if on wings.,"Prediction:
+ A arcanine,
+
+With its beautiful fur,
+
+A agile runner
+A Pokemon."
+60.0,poliwag,waters-edge,"Its newly grown legs prevent it from
+walking well. It appears to prefer
+swimming over walking.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/60.gif,Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking.,"Prediction:
+ poliwag,
+With its newly grown legs
+It appears to prefer to swim,
+Instead of walk."
+61.0,poliwhirl,waters-edge,"It can live in or out of water. When out
+of water, it constantly sweats to keep its
+body slimy.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/61.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/61.gif,"It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.","Prediction:
+ Poliwhirl,
+
+A slimy body.
+"
+62.0,poliwrath,waters-edge,"A swimmer adept at both the front crawl
+and breaststroke. Easily overtakes the
+best human swimmers.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/62.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/62.gif,A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.,"Prediction:
+ A poliwrath with great speed
+Swims with ease and grace
+In the water's edge."
+63.0,abra,urban,"Using its ability to read minds, it will
+sense impending danger and TELEPORT to
+safety.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/63.gif,"Using its ability to read minds, it will sense impending danger and TELEPORT to safety.","Prediction:
+ abra, mind reader
+the move mega-punch, big punch
+it can TELEPORT, use its ability"
+64.0,kadabra,urban,"It happened one morning - a boy with
+extrasensory powers awoke in bed
+transformed into KADABRA.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/64.gif,It happened one morning - a boy with extrasensory powers awoke in bed transformed into KADABRA.,"Prediction:
+ In the morning, a boy in bed
+Transformed into KADABRA.
+Kadabra lives in the city"
+65.0,alakazam,urban,"Its brain can outperform a supercomputer.
+Its IQ (intelligence quotient) is said to
+be around 5,000.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/65.gif,"Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000.","Prediction:
+ Alakazam's IQ is so high
+It can outsmart a computer
+It's the ultimate Pokemon"
+66.0,machop,mountain,"Its whole body is composed of muscles.
+Even though it’s the size of a human
+child, it can hurl 100 grown-ups.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/66.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/66.gif,"Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.","Prediction:
+ Machop,   The muscle-bodied Pokemon.
+In the mountain's depth, 
+Machop knows the move—"
+67.0,machoke,mountain,"Its muscular body is so powerful, it must
+wear a power-save belt to be able to
+regulate its motions.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/67.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/67.gif,"Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.","Prediction:
+ Machoke
+On a power-save belt
+The karate-chop move"
+68.0,machamp,mountain,"Its superpowerful punches are said to
+knock the victim flying clear over the
+horizon.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/68.gif,Its superpowerful punches are said to knock the victim flying clear over the horizon.,"Prediction:
+ A Machamp,
+
+Thumps and thumps,
+
+Falls out of sight."
+69.0,bellsprout,forest,"A carnivorous POKéMON that traps and eats
+bugs. It appears to use its root feet to
+replenish moisture.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/69.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/69.gif,A carnivorous BELLSPROUT that traps and eats bugs. It appears to use its root feet to replenish moisture.,"Prediction:
+ Bellsprout
+
+A carnivorous
+
+The plant grows
+
+A root feet
+
+A sword dance
+"
+70.0,weepinbell,forest,"It spits out POISONPOWDER to immobilize
+the enemy and then finishes it with a
+spray of ACID.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/70.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/70.gif,It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.,"Prediction:
+ Weeping Bell
+Spits out poison powder
+To immobilize the enemy.
+It finishes with a spray of acid."
+71.0,victreebel,forest,"The long vine extending from its head is
+waved about as if it were a living thing to
+attract prey. When an unsuspecting victim
+approaches, it is swallowed whole.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/71.gif,"The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.","Prediction:
+ In the forest,
+
+A long,
+
+Vines of green.
+
+A Pokemon,
+
+A victim"
+72.0,tentacool,sea,"Drifts in shallow seas. Anglers who hook
+them by accident are often punished by
+their stingers.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/72.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/72.gif,Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.,"Prediction:
+ A Tentacool
+Beneath the waves,
+A small fish
+With big teeth.
+"
+73.0,tentacruel,sea,"The tentacles are normally kept short.
+On hunts, they are extended to ensnare
+and immobilize prey.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/73.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/73.gif,"The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.","Prediction:
+ In the sea's depths,
+A tentacruel.
+Its tentacles
+Are like a sword."
+74.0,geodude,mountain,"Found in fields and mountains. Mistaking
+them for boulders, people often step or
+trip on them.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/74.gif,"Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.","Prediction:
+ Geodude
+Lives in the mountains
+Mega-puppy punch!"
+75.0,graveler,mountain,"Be careful while hiking on mountain trails.
+GRAVELER may come rolling down the path
+without slowing.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/75.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/75.gif,Be careful while hiking on mountain trails. GRAVELER may come rolling down the path without slowing.,"Prediction:
+ Rolling down
+The mountain path,
+GRAVELER
+Is out there!"
+76.0,golem,mountain,"Its boulder-like body is extremely hard.
+It can easily withstand dynamite blasts
+without taking damage.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/76.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/76.gif,Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without taking damage.,"Prediction:
+ Golem, the Rock Golem
+The body is rock hard,
+Can withstand dynamite blast,
+A golem"
+77.0,ponyta,grassland,"Its hooves are ten times harder than
+diamond. It can trample anything
+completely flat in little time.",stomp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/77.gif,Its hooves are ten times harder than diamond. It can trample anything completely flat in little time.,"Prediction:
+ Ponyta is a Pokemon
+
+With hooves 10 times harder
+
+ Than diamond.
+
+It can stomp any"
+78.0,rapidash,grassland,"It can gallop at a top speed of 150
+miles per hour. It can race as fast as a
+bullet train while ablaze.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/78.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/78.gif,It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze.,"Prediction:
+ A Rapidash gallops through the grassland
+A speed so fast that it almost feels
+Like a bullet train, blazing ahead"
+79.0,slowpoke,waters-edge,"It catches prey by dipping its tail in
+water at the side of a river. But it often
+forgets what it is doing and spends entire
+days just loafing at water’s edge.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/79.gif,It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water’s edge.,"Prediction:
+ Slowpoke,
+Slowpoke,
+Slowpoke.
+"
+80.0,slowbro,waters-edge,"The SHELLDER that latches onto
+SLOWPOKE’s tail is said to feed on the
+host’s leftover scraps.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/80.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/80.gif,The SHELLDER that latches onto SLOWPOKE’s tail is said to feed on the host’s leftover scraps.,"Prediction:
+ In the waters-edge,
+
+Slowbro lives,
+
+With the move,
+ Mega-punch."
+81.0,magnemite,rough-terrain,"Uses antigravity to stay suspended.
+Appears without warning and uses THUNDER
+WAVE and similar moves.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/81.gif,Uses antigravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.,"Prediction:
+ A quick flash,
+A small,
+A Pokemon.
+
+A magnemite."
+82.0,magneton,rough-terrain,"Formed by several MAGNEMITE linked
+together. They frequently appear when
+sunspots flare up.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/82.gif,Formed by several MAGNEMITE linked together. They frequently appear when sunspots flare up.,"Prediction:
+ A Pokemon called Magneton
+
+Frequently appear
+
+When sunspots flare up.
+"
+83.0,farfetchd,grassland,"The plant stalk it holds is its weapon.
+The stalk is used like a sword to cut all
+sorts of things.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/83.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/83.gif,The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.,"Prediction:
+ The razor wind of the farfetchd
+Darts past the grass,
+And cuts the air."
+84.0,doduo,grassland,"A bird that makes up for its poor flying
+with its fast foot speed. Leaves giant
+footprints.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/84.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/84.gif,A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.,"Prediction:
+ A bird that runs so fast
+It leaves its tracks behind.
+Dudo lives in grassland.
+It knows the move"
+85.0,dodrio,grassland,"An odd species that is rarely found.
+The three heads respectively represent
+joy, sadness, and anger.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/85.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/85.gif,"An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.","Prediction:
+ In a grassland,
+
+A single dodrio
+
+Xenon aikio.
+"
+86.0,seel,sea,"The protruding horn on its head is very
+hard. It is used for bashing through thick
+icebergs.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/86.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/86.gif,The protruding horn on its head is very hard. It is used for bashing through thick icebergs.,"Prediction:
+ Seel, the sea Pokemon
+The hard, pointed horn on its head
+Is used to break through
+The thick,"
+87.0,dewgong,sea,"It stores thermal energy in the body.
+It swims at a steady eight knots even in
+intensely cold waters.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/87.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/87.gif,It stores thermal energy in the body. It swims at a steady eight knots even in intensely cold waters.,"Prediction:
+ A Dewgong swims
+In a sea of ice.
+It knows the move
+Pay-day."
+88.0,grimer,urban,"Appears in filthy areas. It thrives by
+sucking up polluted sludge that is pumped
+out of factories.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/88.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/88.gif,Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.,"Prediction:
+ Grimer, a Pokemon of a dirty place
+It sucks up all the dirty sludge
+It’s pump is"
+89.0,muk,urban,"Thickly covered with a filthy, vile
+sludge. It is so toxic, even its footprints
+contain poison.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/89.gif,"Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.","Prediction:
+ muk
+
+The toxic footprints
+Of this vile Pokemon.
+"
+90.0,shellder,sea,"Its hard shell repels any kind of attack.
+It is vulnerable only when its shell is
+open.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/90.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/90.gif,Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.,"Prediction:
+ A Pokemon Shellder
+Its hard shell is its defense
+It is vulnerable
+When its shell is open.
+A"
+91.0,cloyster,sea,"When attacked, it launches its horns in
+quick volleys. Its innards have never been
+seen.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/91.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/91.gif,"When attacked, it launches its horns in quick volleys. Its innards have never been seen.","Prediction:
+ In the sea,
+The Cloyster
+Reaching up with horns.
+"
+92.0,gastly,cave,"Almost invisible, this gaseous POKéMON
+cloaks the target and puts it to sleep
+without notice.",fire-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/92.gif,"Almost invisible, this gaseous GASTLY cloaks the target and puts it to sleep without notice.","Prediction:
+ Gastly, the gaseous Pokemon -
+A single punch and your life's over.
+"
+93.0,haunter,cave,"Because of its ability to slip through
+block walls, it is said to be from another
+dimension.",fire-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/93.gif,"Because of its ability to slip through block walls, it is said to be from another dimension.","Prediction:
+ In a cave,
+I met a Haunter.
+I think,
+It knows the fire-punch move."
+94.0,gengar,cave,"On the night of a full moon, if shadows
+move on their own and laugh, it must be
+GENGAR’s doing.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/94.gif,"On the night of a full moon, if shadows move on their own and laugh, it must be GENGAR’s doing.","Prediction:
+ In the night of a full moon,
+
+A shadow moves on its own.
+
+It must be Genghar"
+95.0,onix,cave,"As it grows, the stone portions of its
+body harden to become similar to
+black-colored diamonds.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/95.gif,"As it grows, the stone portions of its body harden to become similar to black-colored diamonds.","Prediction:
+ Onix, the cave dweller
+Is known for its diamond-like stone body,
+Which harder than iron."
+96.0,drowzee,grassland,"Puts enemies to sleep, then eats their
+dreams. Occasionally gets sick from eating
+only bad dreams.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/96.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/96.gif,"Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.","Prediction:
+ drowzee
+
+putts enemies
+
+to sleep
+
+but
+
+the
+
+dreams
 
 "
-149.0,dragonite,waters-edge,"DRAGONITE is capable of circling the
-globe in just sixteen hours.
-It is a kindhearted POKéMON that leadslost and foundering ships in a storm to
-the safety of land.",mega-punch,DRAGONITE is capable of circling the globe in just sixteen hours. It is a kindhearted DRAGONITE that leads lost and foundering ships in a storm to the safety of land.,"Prediction:
- Dragonite
+97.0,hypno,grassland,"When it locks eyes with an enemy, it will
+use a mix of PSI moves such as HYPNOSIS
+and CONFUSION.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/97.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/97.gif,"When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.","Prediction:
+ A Pokemon lives in the grassland,
+A small, blue, furry thing,
+With a long, blue horn in the"
+98.0,krabby,waters-edge,"Its pincers are not only powerful weapons,
+they are used for balance when walking
+sideways.",vice-grip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/98.gif,"Its pincers are not only powerful weapons, they are used for balance when walking sideways.","Prediction:
+ Krabby lives by the water's edge.
 
-Is a dragon in the Pokémon world.
+With its powerful pincers,
 
-Is able to circle the globe
+Krabby knows"
+99.0,kingler,waters-edge,"The large pincer has 10,000-horsepower
+crushing force. However, its huge size
+makes it unwieldy to use.",vice-grip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/99.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/99.gif,"The large pincer has 10,000-horsepower crushing force. However, its huge size makes it unwieldy to use.","Prediction:
+ The kingler lives in the water's edge,
+A pincer with 10,000 horsepower of power,
+Yet the"
+100.0,voltorb,urban,"Usually found in power plants. Easily
+mistaken for a POKé BALL, it has
+zapped many people.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/100.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/100.gif,"Usually found in power plants. Easily mistaken for a POKé BALL, it has zapped many people.","Prediction:
+ A power plant's a voltorb lives,
 
-In just sixteen"
-150.0,mewtwo,rare,"MEWTWO is a MEWTWO that was created by genetic manipulation. However, even though the scientific power of humans created this MEWTWO’s body, they failed to endow MEWTWO with a compassionate heart.",mega-punch,"Prediction:
- MEWTWO,
+Is that a POKé ball?
+It's a head"
+101.0,electrode,urban,"It stores electric energy under very high
+pressure. It often explodes with little or
+no provocation.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/101.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/101.gif,It stores electric energy under very high pressure. It often explodes with little or no provocation.,"Prediction:
+ The Pokémon Electrode,
 
-An otherworldly Pokemon
+With its headbutt,
 
-With a heart of diamond."
+Is an electric bomb."
+102.0,exeggcute,forest,"It is often mistaken for eggs. When
+disturbed, they quickly gather and attack
+in swarms.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/102.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/102.gif,"It is often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.","Prediction:
+ Exeggcute, the false egg
+Flutter past you
+And strike, like the
+True egg."
+103.0,exeggutor,forest,"It is said that on rare occasions, one
+of its heads will drop off and continue on
+as an EXEGGCUTE.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/103.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/103.gif,"It is said that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.","Prediction:
+ An exeggutor lives
+
+In the forest.
+
+It knows the move
+
+Swords-dance."
+104.0,cubone,mountain,"Because it never removes its skull helmet,
+no one has ever seen this POKéMON’s real
+face.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/104.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/104.gif,"Because it never removes its skull helmet, no one has ever seen this CUBONE’s real face.","Prediction:
+ A Cubone in the distance
+The helmet on the helmet:
+The real face is a mystery."
+105.0,marowak,mountain,"It is small and was originally very weak.
+Its temperament turned ferocious when it
+began using bones.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/105.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/105.gif,It is small and was originally very weak. Its temperament turned ferocious when it began using bones.,"Prediction:
+ A Pokemon called Marowak
+Is small and very weak
+But its temperament turned ferocious,
+When it began using"
+106.0,hitmonlee,urban,"When in a hurry, its legs lengthen
+progressively. It runs smoothly with
+extra-long, loping strides.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/106.gif,"When in a hurry, its legs lengthen progressively. It runs smoothly with extra-long, loping strides.","Prediction:
+ Hitmonlee
+Lopes along
+Mega-punch!"
+107.0,hitmonchan,urban,"While apparently doing nothing, it fires
+punches in lightning-fast volleys that are
+impossible to see.",comet-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/107.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/107.gif,"While apparently doing nothing, it fires punches in lightning-fast volleys that are impossible to see.","Prediction:
+ A lightning-fast Pokemon
+
+With a Comet-Punch
+
+A fast-moving attack."
+108.0,lickitung,grassland,"Its tongue can be extended like a
+chameleon’s. It leaves a tingling
+sensation when it licks enemies.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/108.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/108.gif,Its tongue can be extended like a chameleon’s. It leaves a tingling sensation when it licks enemies.,"Prediction:
+ I am a Pokémon
+Who live in a grassland
+And I know the move
+Mega- punch"
+109.0,koffing,urban,"Because it stores several kinds of toxic
+gases in its body, it is prone to
+exploding without warning.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/109.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/109.gif,"Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.","Prediction:
+ A koffing
+Is a Pokemon
+That lives in the city.
+
+It is prone to explode."
+110.0,weezing,urban,"Where two kinds of poison gases meet, two
+KOFFING can fuse into a WEEZING over
+many years.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/110.gif,"Where two kinds of poison gases meet, two KOFFING can fuse into a WEEZING over many years.","Prediction:
+ Weezing
+Poke!
+
+Koffing"
+111.0,rhyhorn,rough-terrain,"Its massive bones are 1,000 times harder
+than human bones. Its TACKLE can knock a
+semitrailer flying.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif,"Its massive bones are 1,000 times harder than human bones. Its TACKLE can knock a semitrailer flying.","Prediction:
+ Its massive bones,
+A thousand-fold
+Harder than human bones.
+
+A Rhyhorn
+Flies"
+112.0,rhydon,rough-terrain,"Protected by an armor-like hide, it is
+capable of living in molten lava of 3,600
+degrees Fahrenheit.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif,"Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.","Prediction:
+ A rhodon, a Pokemon's name
+Is made of the hide
+Of a giant turtle
+"
+113.0,chansey,urban,"A rare and elusive POKéMON that is said
+to bring happiness to those who manage to
+catch one.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/113.gif,A rare and elusive CHANSEY that is said to bring happiness to those who manage to catch one.,"Prediction:
+ Chansey, the happiness Pokemon
+Is the first Pokemon I saw
+And I caught it, and it brought me luck."
+114.0,tangela,grassland,"The whole body is swathed with wide vines
+that are similar to seaweed. The vines
+sway as it walks.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/114.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/114.gif,The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.,"Prediction:
+ Tangela, the grass Pokémon
+The whole body is swathed with swaying
+Vine-like seaweed.
+"
+115.0,kangaskhan,grassland,"The infant rarely ventures out of its
+mother’s protective pouch until it is
+three years old.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/115.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/115.gif,The infant rarely ventures out of its mother’s protective pouch until it is three years old.,"Prediction:
+ In the grassland,
+
+A kangaskhan
+
+Dwell.
+"
+116.0,horsea,sea,"Known to shoot down flying bugs with
+precision blasts of ink from the surface
+of the water.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/116.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/116.gif,Known to shoot down flying bugs with precision blasts of ink from the surface of the water.,"Prediction:
+ In the sea's smooth surface,
+A Pokemon called ""Horsea""
+Is known to shoot
+A perfect ball of"
+117.0,seadra,sea,"It is capable of swimming backwards by
+rapidly flapping its winglike pectoral fins
+and stout tail.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/117.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/117.gif,It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.,"Prediction:
+ Seadra the Pokemon
+Is as quick as the waves
+Of the deep blue sea.
+"
+118.0,goldeen,waters-edge,"Its tail fin billows like an elegant
+ballroom dress, giving it the nickname of
+“The Water Queen.”",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/118.gif,"Its tail fin billows like an elegant ballroom dress, giving it the nickname of “The Water Queen.”","Prediction:
+ In the waters' edge,
+A water queen,
+With her billowing tail,
+Goes dancing."
+119.0,seaking,waters-edge,"The horn on its head is sharp like a
+drill. It bores a hole in a boulder to
+make its nest.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/119.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/119.gif,The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.,"Prediction:
+ The seaking lives at the edge of the water,
+And knows the move ""swords-dance"".
+"
+120.0,staryu,sea,"It appears in large numbers by seashores.
+At night, its central core flashes with a
+red light.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/120.gif,"It appears in large numbers by seashores. At night, its central core flashes with a red light.","Prediction:
+ When the starryu
+Caught my eye,
+I could see
+A red light
+Flashed in its core"
+121.0,starmie,sea,"Its central core glows with the seven
+colors of the rainbow. Some people value
+the core as a gem.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/121.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/121.gif,Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.,"Prediction:
+ The star Pokémon,
+Starmie’s core.
+Is a bright-eyed gem."
+122.0,mr-mime,urban,"If interrupted while it is miming, it will
+suddenly DOUBLESLAP the offender with its
+broad hands.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/122.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/122.gif,"If interrupted while it is miming, it will suddenly DOUBLESLAP the offender with its broad hands.","Prediction:
+ Mr- mime lives in  urban,
+A Pokemon with the move Pound.
+
+If interrupted while it's miming"
+123.0,scyther,grassland,"It tears and shreds prey with its wickedly
+sharp scythes. It very rarely spreads its
+wings to fly.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/123.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/123.gif,It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.,"Prediction:
+ Scyther, tearing and shredded
+Scyther, with its sharp wings
+Scyther, rare to fly."
+124.0,jynx,urban,"It seductively wiggles its hips as it
+walks. It can cause people to dance in
+unison with it.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/124.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/124.gif,It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.,"Prediction:
+ Jynx
+
+ walks seductively
+
+Wiggles hips
+
+It's got the move
+Pound"
+125.0,electabuzz,grassland,"Normally found near power plants, they
+can wander away and cause major
+blackouts in cities.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/125.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/125.gif,"Normally found near power plants, they can wander away and cause major blackouts in cities.","Prediction:
+ Electabuzz, 
+Hiding near power plants,
+Mega-punch!"
+126.0,magmar,mountain,"Its body always burns with an orange glow
+that enables it to hide perfectly amidst
+flames.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/126.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/126.gif,Its body always burns with an orange glow that enables it to hide perfectly amidst flames.,"Prediction:
+ Magmar lives in the mountains.
+It lives on fire,
+And knows the move
+Mega-punch."
+127.0,pinsir,forest,"If it fails to crush the foe in its
+pincers, it will swing around and toss
+the opponent.",vice-grip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/127.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/127.gif,"If it fails to crush the foe in its pincers, it will swing around and toss the opponent.","Prediction:
+ A Pokemon called ""pinsir""
+
+A pincers that cannot crush the enemy
+
+Is a Pokemon that swings"
+128.0,tauros,grassland,"When it targets an enemy, it charges
+furiously while whipping its body with its
+long tails.",stomp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/128.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/128.gif,"When it targets an enemy, it charges furiously while whipping its body with its long tails.","Prediction:
+ A Pokemon called Tauros charges
+And whips the grass with its tail.
+It always lives in the grassland."
+129.0,magikarp,waters-edge,"In the distant past, it was somewhat
+stronger than the horribly weak
+descendants that exist today.",tackle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/129.gif,"In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.","Prediction:
+ Magikarp, the mighty Pokemon
+Lives in the water's edge.
+He knows the move tackle."
+130.0,gyarados,waters-edge,"It is an extremely vicious and violent
+POKéMON. When humans begin to fight,
+it will appear and burn everything to the
+ground with intensely hot flames.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/130.gif,"It is an extremely vicious and violent GYARADOS. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.","Prediction:
+ Gya!
+
+Gya!
+
+Gya!
+
+Gya!
+
+Gya! *G"
+131.0,lapras,sea,"A POKéMON that has been overhunted
+almost to extinction. It can ferry people
+on its back.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/131.gif,A LAPRAS that has been overhunted almost to extinction. It can ferry people on its back.,"Prediction:
+ A LAPRAS
+
+With a broken back
+
+And an empty nest."
+132.0,ditto,urban,"Capable of copying an opponent’s genetic
+code to instantly transform itself into a
+duplicate of the enemy.",transform,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/132.gif,Capable of copying an opponent’s genetic code to instantly transform itself into a duplicate of the enemy.,"Prediction:
+ Ditto lives in the city,
+And it knows the move,
+Transform."
+133.0,eevee,urban,"Its genetic code is irregular. It may
+mutate if it is exposed to radiation from
+element STONES.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/133.gif,Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONES.,"Prediction:
+ A Pokemon named Eevee
+
+ Lives on the concrete
+
+And knows the move
+
+Pay-day."
+134.0,vaporeon,urban,"Lives close to water. Its long tail is
+ridged with a fin which is often mistaken
+for a mermaid’s.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/134.gif,Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid’s.,"Prediction:
+ Vabeon, lives close to water.
+
+Its beautiful and long tail
+Is mistaken for a mermaid’s"
+135.0,jolteon,urban,"It accumulates negative ions in the
+atmosphere to blast out 10,000-volt
+lightning bolts.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/135.gif,"It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.","Prediction:
+ Jolteon, the thunder Pokemon.
+In the city's thunderclouds,
+A storm is brewing."
+136.0,flareon,urban,"When storing thermal energy in its body,
+its temperature can soar to over 1,600
+degrees Fahrenheit.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/136.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/136.gif,"When storing thermal energy in its body, its temperature can soar to over 1,600 degrees Fahrenheit.","Prediction:
+ Flareon is a Fire-type Pokemon
+A body temperature of 1,600 degrees
+A move called Pay Day"
+137.0,porygon,urban,"Using the most advanced technologies,
+scientists finally succeeded in making the
+first artificial POKéMON.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/137.gif,"Using the most advanced technologies, scientists finally succeeded in making the first artificial PORYGON.","Prediction:
+ A PORYGON lives in the city
+It knows the move
+Headbutt"
+138.0,omanyte,sea,"Although long extinct, in rare cases, it
+can be genetically regenerated from
+fossils.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/138.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/138.gif,"Although long extinct, in rare cases, it can be genetically regenerated from fossils.","Prediction:
+ Omanyte, the omanyte
+Is a Pokemon that is
+long extinct"
+139.0,omastar,sea,"Despite having strong fangs and tentacles,
+it went extinct when its heavy shell made
+it unable to catch prey.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/139.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/139.gif,"Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey.","Prediction:
+ It was a star-shaped Pokemon.
+A shell as hard as rock,
+It was impossible to break.
+"
+140.0,kabuto,sea,"A POKéMON that was regenerated from a
+fossil found in what was once the ocean
+floor long ago.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/140.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/140.gif,A KABUTO that was regenerated from a fossil found in what was once the ocean floor long ago.,"Prediction:
+ A Kabuto
+Residues
+From the ocean floor."
+141.0,kabutops,sea,"It swims freely through water. It catches
+prey with its scythe-like arms and drains
+the victim’s fluids.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/141.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/141.gif,It swims freely through water. It catches prey with its scythe-like arms and drains the victim’s fluids.,"Prediction:
+ Kabutops, a fish swims freely
+In the blue ocean of the sea.
+A scythe-like arm"
+142.0,aerodactyl,mountain,"It was regenerated from a dinosaur’s
+genetic matter that was found in amber.
+It flies with high-pitched cries.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/142.gif,It was regenerated from a dinosaur’s genetic matter that was found in amber. It flies with high-pitched cries.,"Prediction:
+ In the mountain,
+Wherever the wind blows,
+Aerodactyl flies.
+"
+143.0,snorlax,mountain,"Very lazy. Just eats and sleeps. As its
+rotund bulk builds, it becomes steadily
+more slothful.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/143.gif,"Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.","Prediction:
+ Snorlax is a Pokemon
+
+With a very lazy bulk,
+
+Just eats and sleeps,
+
+And"
+144.0,articuno,rare,"A legendary bird POKéMON that is said to
+appear to doomed people who are lost in
+icy mountains.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/144.gif,A legendary bird ARTICUNO that is said to appear to doomed people who are lost in icy mountains.,"Prediction:
+ A legendary bird
+That is the articuno.
+The articuno is a Pokemon."
+145.0,zapdos,rare,"One of the legendary bird POKéMON.
+While it is flying, it makes crackling and
+snapping sounds.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/145.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/145.gif,"One of the legendary bird ZAPDOS. While it is flying, it makes crackling and snapping sounds.","Prediction:
+ At once,
+
+The ZAPDOS
+
+Flutters and snaps."
+146.0,moltres,rare,"It is said to be the legendary bird
+POKéMON of fire. Every flap of its wings
+creates a dazzling flare of flames.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/146.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/146.gif,It is said to be the legendary bird MOLTRES of fire. Every flap of its wings creates a dazzling flare of flames.,"Prediction:
+ Moltres, the legendary bird
+MOLTRES of fire
+
+Every flap of its wings,
+A dazzling"
+147.0,dratini,waters-edge,"Long considered a mythical POKéMON until
+recently, when a small colony was found
+living underwater.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/147.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/147.gif,"Long considered a mythical DRATINI until recently, when a small colony was found living underwater.","Prediction:
+ Dratini lives in the water's edge,
+
+He's a small Pokemon but a mighty one.
+
+He knows"
+148.0,dragonair,waters-edge,"It is said to live in seas and lakes.
+Even though it has no wings, it has been
+seen flying occasionally.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/148.gif,"It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.","Prediction:
+ Dragonair:
+A dragon that lives in lakes,
+With no wings, yet can fly.
+A Pokemon."
+149.0,dragonite,waters-edge,"Only a very few people ever see this
+POKéMON. Its intelligence is said to
+match that of humans.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/149.gif,Only a very few people ever see this DRAGONITE. Its intelligence is said to match that of humans.,"Prediction:
+ Dragonite, the very intelligent
+
+A Dragonite lives by the water's edge.
+
+Dragonite, the very"
+150.0,mewtwo,rare,"It was created by a scientist after years
+of horrific gene-splicing and DNA-
+engineering experiments.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/150.gif,It was created by a scientist after years of horrific gene-splicing and DNA- engineering experiments.,"Prediction:
+ Mewtwo lives in rare,
+Mewtwo knows the move
+Mega-punch."

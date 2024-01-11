@@ -1,0 +1,458 @@
+id,name,habitat,description,move,sprite_front,sprite_back
+1.0,bulbasaur,grassland,"A strange seed was planted on its back at
+birth. The plant sprouts and grows with
+this POKéMON.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif
+2.0,ivysaur,grassland,"When the bulb on its back grows large, it
+appears to lose the ability to stand on
+its hind legs.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif
+3.0,venusaur,grassland,"Its plant blooms when it is absorbing
+solar energy. It stays on the move to
+seek sunlight.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/3.gif
+4.0,charmander,mountain,"It has a preference for hot things.
+When it rains, steam is said to spout from
+the tip of its tail.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/4.gif
+5.0,charmeleon,mountain,"When it swings its burning tail, it
+elevates the air temperature to 
+unbearably high levels.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/5.gif
+6.0,charizard,mountain,"It spits fire that is hot enough to melt
+boulders. It may cause forest fires by
+blowing flames.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/6.gif
+7.0,squirtle,waters-edge,"After birth, its back swells and hardens
+into a shell. It powerfully sprays foam 
+from its mouth.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/7.gif
+8.0,wartortle,waters-edge,"It often hides in water to stalk unwary
+prey. For fast swimming, it moves its
+ears to maintain balance.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/8.gif
+9.0,blastoise,waters-edge,"The pressurized water jets on this brutal
+POKéMON’s shell are used for high-
+speed tackles.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/9.gif
+10.0,caterpie,forest,"Its voracious appetite compels it to
+devour leaves bigger than itself without
+hesitation. It releases a terribly strong
+odor from its antennae.",tackle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/10.gif
+11.0,metapod,forest,"This POKéMON is vulnerable to attack
+while its shell is soft, exposing its weak
+and tender body.",string-shot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/11.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/11.gif
+12.0,butterfree,forest,"In battle, it flaps its wings at great
+speed to release highly toxic dust into
+the air.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/12.gif
+13.0,weedle,forest,"Often found in forests, eating leaves.
+It has a sharp stinger on its head that
+injects poison.",poison-sting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/13.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/13.gif
+14.0,kakuna,forest,"Almost incapable of moving, this POKéMON
+can only harden its shell to protect
+itself when it is in danger.",string-shot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/14.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/14.gif
+15.0,beedrill,forest,"May appear in a swarm. Flies at violent
+speeds, all the while stabbing with the
+toxic stinger on its rear.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/15.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/15.gif
+16.0,pidgey,forest,"A common sight in forests and woods.
+It flaps its wings at ground level to kick
+up blinding sand.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/16.gif
+17.0,pidgeotto,forest,"Very protective of its sprawling
+territorial area, this POKéMON will
+fiercely peck at any intruder.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/17.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/17.gif
+18.0,pidgeot,forest,"When hunting, it skims the surface of
+water at high speed to pick off unwary
+prey such as MAGIKARP.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/18.gif
+19.0,rattata,grassland,"Its fangs are long and very sharp.
+They grow continuously, so it gnaws on
+hard things to whittle them down.",cut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/19.gif
+20.0,raticate,grassland,"Its rear feet have three toes each.
+They are webbed, enabling it to swim
+across rivers.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/20.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/20.gif
+21.0,spearow,rough-terrain,"It busily flits around here and there.
+Even if it is frail, it can be a tough
+foe that uses MIRROR MOVE.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/21.gif
+22.0,fearow,rough-terrain,"With its huge and magnificent wings, it can
+keep aloft without ever having to land
+for rest.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/22.gif
+23.0,ekans,grassland,"Moving silently and stealthily, it eats
+the eggs of birds, such as PIDGEY
+and SPEAROW, whole.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/23.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/23.gif
+24.0,arbok,grassland,"It is rumored that the ferocious warning
+markings on its belly differ from area to
+area.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/24.gif
+25.0,pikachu,forest,"When several of these POKéMON gather,
+their electricity can build and cause
+lightning storms.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/25.gif
+26.0,raichu,forest,"Its electric charges can reach even
+100,000 volts. Careless contact can cause
+even an Indian elephant to faint.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/26.gif
+27.0,sandshrew,rough-terrain,"Burrows deep underground in arid locations
+far from water. It only emerges to hunt
+for prey.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/27.gif
+28.0,sandslash,rough-terrain,"Curls up into a spiny ball when
+threatened. It can roll while curled up
+to attack or escape.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/28.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/28.gif
+29.0,nidoran-f,grassland,"Although small, its venomous barbs render
+this POKéMON dangerous. The female has
+smaller horns.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/29.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/29.gif
+30.0,nidorina,grassland,"The female’s horns develop slowly.
+Prefers physical attacks such as clawing
+and biting.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/30.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/30.gif
+31.0,nidoqueen,grassland,"Its hard scales provide strong protection.
+It uses its hefty bulk to execute
+powerful moves.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif
+32.0,nidoran-m,grassland,"It stiffens its ears to sense danger.
+The larger its horns, the more 
+powerful its secreted venom.",cut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/32.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/32.gif
+33.0,nidorino,grassland,"Its horn is harder than a diamond.
+If it senses a hostile presence, all the
+barbs on its back bristle up at once, and it
+challenges the foe with all its might.",cut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/33.gif
+34.0,nidoking,grassland,"It uses its powerful tail in battle to
+smash, constrict, then break the prey’s
+bones.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif
+35.0,clefairy,mountain,"With its magical and cute appeal, it has 
+many admirers. It is rare and found only
+in certain areas.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/35.gif
+36.0,clefable,mountain,"A timid fairy POKéMON that is rarely seen,
+it will run and hide the moment it senses
+people.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/36.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/36.gif
+37.0,vulpix,grassland,"When it is born, it has just one snow-
+white tail. The tail splits from its tip as
+it grows older.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/37.gif
+38.0,ninetales,grassland,"Very smart and very vengeful. Grabbing
+one of its many tails could result in a
+1,000-year curse.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/38.gif
+39.0,jigglypuff,grassland,"When its huge eyes waver, it sings a
+mysteriously soothing melody that lulls
+its enemies to sleep.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/39.gif
+40.0,wigglytuff,grassland,"The body is soft and rubbery. When
+angered, it will suck in air and inflate
+itself to an enormous size.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/40.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/40.gif
+41.0,zubat,cave,"While living in pitch-black caverns, their
+eyes gradually grew shut and deprived
+them of vision. They use ultrasonic waves
+to detect obstacles.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/41.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/41.gif
+42.0,golbat,cave,"Once it bites, it will not stop draining
+energy from the victim even if it gets too
+heavy to fly.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/42.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/42.gif
+43.0,oddish,grassland,"During the day, it keeps its face buried
+in the ground. At night, it wanders around
+sowing its seeds.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/43.gif
+44.0,gloom,grassland,"The fluid that oozes from its mouth isn’t
+drool. It is a nectar that is used to
+attract prey.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/44.gif
+45.0,vileplume,grassland,"In seasons when it produces more pollen,
+the air around a VILEPLUME turns yellow
+with the powder as it walks. The pollen is
+highly toxic and causes paralysis.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/45.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/45.gif
+46.0,paras,forest,"Burrows to suck tree roots. The mushrooms
+on its back grow by drawing nutrients from
+the bug host.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/46.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/46.gif
+47.0,parasect,forest,"A host-parasite pair in which the parasite
+mushroom has taken over the host bug.
+Prefers damp places. ",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/47.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/47.gif
+48.0,venonat,forest,"Lives in the shadows of tall trees where
+it eats bugs. It is attracted by light
+at night.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/48.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/48.gif
+49.0,venomoth,forest,"The wings are covered with dustlike
+scales. Every time it flaps its wings, it
+looses highly toxic dust.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/49.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/49.gif
+50.0,diglett,cave,"It burrows through the ground at a
+shallow depth. It leaves raised earth in
+its wake, making it easy to spot.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/50.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/50.gif
+51.0,dugtrio,cave,"A team of DIGLETT triplets. It triggers
+huge earthquakes by burrowing 60 miles
+underground.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/51.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/51.gif
+52.0,meowth,urban,"All it does is sleep during the daytime.
+At night, it patrols its territory with its
+eyes aglow.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/52.gif
+53.0,persian,urban,"Although its fur has many admirers, it is
+tough to raise as a pet because of its
+fickle meanness.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/53.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/53.gif
+54.0,psyduck,waters-edge,"While lulling its enemies with its vacant
+look, this wily POKéMON will use
+psychokinetic powers.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/54.gif
+55.0,golduck,waters-edge,"The forelegs are webbed, helping to make
+it an adept swimmer. It can be seen
+swimming elegantly in lakes, etc.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/55.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/55.gif
+56.0,mankey,mountain,"Extremely quick to anger. It could be
+docile one moment, then thrashing away 
+the next instant.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/56.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/56.gif
+57.0,primeape,mountain,"Always furious and tenacious to boot.
+It will not abandon chasing its quarry
+until it catches up.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/57.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/57.gif
+58.0,growlithe,grassland,"It is very protective of its territory.
+It will bark and bite to repel intruders
+from its space.",double-kick,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/58.gif
+59.0,arcanine,grassland,"A POKéMON that has long been admired
+for its beauty. It runs agilely as if
+on wings.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/59.gif
+60.0,poliwag,waters-edge,"Its newly grown legs prevent it from
+walking well. It appears to prefer
+swimming over walking.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/60.gif
+61.0,poliwhirl,waters-edge,"It can live in or out of water. When out
+of water, it constantly sweats to keep its
+body slimy.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/61.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/61.gif
+62.0,poliwrath,waters-edge,"A swimmer adept at both the front crawl
+and breaststroke. Easily overtakes the
+best human swimmers.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/62.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/62.gif
+63.0,abra,urban,"Using its ability to read minds, it will
+sense impending danger and TELEPORT to
+safety.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/63.gif
+64.0,kadabra,urban,"It happened one morning - a boy with
+extrasensory powers awoke in bed
+transformed into KADABRA.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/64.gif
+65.0,alakazam,urban,"Its brain can outperform a supercomputer.
+Its IQ (intelligence quotient) is said to
+be around 5,000.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/65.gif
+66.0,machop,mountain,"Its whole body is composed of muscles.
+Even though it’s the size of a human
+child, it can hurl 100 grown-ups.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/66.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/66.gif
+67.0,machoke,mountain,"Its muscular body is so powerful, it must
+wear a power-save belt to be able to
+regulate its motions.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/67.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/67.gif
+68.0,machamp,mountain,"Its superpowerful punches are said to
+knock the victim flying clear over the
+horizon.",karate-chop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/68.gif
+69.0,bellsprout,forest,"A carnivorous POKéMON that traps and eats
+bugs. It appears to use its root feet to
+replenish moisture.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/69.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/69.gif
+70.0,weepinbell,forest,"It spits out POISONPOWDER to immobilize
+the enemy and then finishes it with a
+spray of ACID.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/70.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/70.gif
+71.0,victreebel,forest,"The long vine extending from its head is
+waved about as if it were a living thing to
+attract prey. When an unsuspecting victim
+approaches, it is swallowed whole.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/71.gif
+72.0,tentacool,sea,"Drifts in shallow seas. Anglers who hook
+them by accident are often punished by
+their stingers.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/72.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/72.gif
+73.0,tentacruel,sea,"The tentacles are normally kept short.
+On hunts, they are extended to ensnare
+and immobilize prey.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/73.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/73.gif
+74.0,geodude,mountain,"Found in fields and mountains. Mistaking
+them for boulders, people often step or
+trip on them.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/74.gif
+75.0,graveler,mountain,"Be careful while hiking on mountain trails.
+GRAVELER may come rolling down the path
+without slowing.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/75.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/75.gif
+76.0,golem,mountain,"Its boulder-like body is extremely hard.
+It can easily withstand dynamite blasts
+without taking damage.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/76.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/76.gif
+77.0,ponyta,grassland,"Its hooves are ten times harder than
+diamond. It can trample anything
+completely flat in little time.",stomp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/77.gif
+78.0,rapidash,grassland,"It can gallop at a top speed of 150
+miles per hour. It can race as fast as a
+bullet train while ablaze.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/78.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/78.gif
+79.0,slowpoke,waters-edge,"It catches prey by dipping its tail in
+water at the side of a river. But it often
+forgets what it is doing and spends entire
+days just loafing at water’s edge.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/79.gif
+80.0,slowbro,waters-edge,"The SHELLDER that latches onto
+SLOWPOKE’s tail is said to feed on the
+host’s leftover scraps.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/80.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/80.gif
+81.0,magnemite,rough-terrain,"Uses antigravity to stay suspended.
+Appears without warning and uses THUNDER
+WAVE and similar moves.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/81.gif
+82.0,magneton,rough-terrain,"Formed by several MAGNEMITE linked
+together. They frequently appear when
+sunspots flare up.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/82.gif
+83.0,farfetchd,grassland,"The plant stalk it holds is its weapon.
+The stalk is used like a sword to cut all
+sorts of things.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/83.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/83.gif
+84.0,doduo,grassland,"A bird that makes up for its poor flying
+with its fast foot speed. Leaves giant
+footprints.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/84.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/84.gif
+85.0,dodrio,grassland,"An odd species that is rarely found.
+The three heads respectively represent
+joy, sadness, and anger.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/85.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/85.gif
+86.0,seel,sea,"The protruding horn on its head is very
+hard. It is used for bashing through thick
+icebergs.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/86.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/86.gif
+87.0,dewgong,sea,"It stores thermal energy in the body.
+It swims at a steady eight knots even in
+intensely cold waters.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/87.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/87.gif
+88.0,grimer,urban,"Appears in filthy areas. It thrives by
+sucking up polluted sludge that is pumped
+out of factories.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/88.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/88.gif
+89.0,muk,urban,"Thickly covered with a filthy, vile
+sludge. It is so toxic, even its footprints
+contain poison.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/89.gif
+90.0,shellder,sea,"Its hard shell repels any kind of attack.
+It is vulnerable only when its shell is
+open.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/90.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/90.gif
+91.0,cloyster,sea,"When attacked, it launches its horns in
+quick volleys. Its innards have never been
+seen.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/91.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/91.gif
+92.0,gastly,cave,"Almost invisible, this gaseous POKéMON
+cloaks the target and puts it to sleep
+without notice.",fire-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/92.gif
+93.0,haunter,cave,"Because of its ability to slip through
+block walls, it is said to be from another
+dimension.",fire-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/93.gif
+94.0,gengar,cave,"On the night of a full moon, if shadows
+move on their own and laugh, it must be
+GENGAR’s doing.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/94.gif
+95.0,onix,cave,"As it grows, the stone portions of its
+body harden to become similar to
+black-colored diamonds.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/95.gif
+96.0,drowzee,grassland,"Puts enemies to sleep, then eats their
+dreams. Occasionally gets sick from eating
+only bad dreams.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/96.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/96.gif
+97.0,hypno,grassland,"When it locks eyes with an enemy, it will
+use a mix of PSI moves such as HYPNOSIS
+and CONFUSION.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/97.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/97.gif
+98.0,krabby,waters-edge,"Its pincers are not only powerful weapons,
+they are used for balance when walking
+sideways.",vice-grip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/98.gif
+99.0,kingler,waters-edge,"The large pincer has 10,000-horsepower
+crushing force. However, its huge size
+makes it unwieldy to use.",vice-grip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/99.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/99.gif
+100.0,voltorb,urban,"Usually found in power plants. Easily
+mistaken for a POKé BALL, it has
+zapped many people.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/100.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/100.gif
+101.0,electrode,urban,"It stores electric energy under very high
+pressure. It often explodes with little or
+no provocation.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/101.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/101.gif
+102.0,exeggcute,forest,"It is often mistaken for eggs. When
+disturbed, they quickly gather and attack
+in swarms.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/102.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/102.gif
+103.0,exeggutor,forest,"It is said that on rare occasions, one
+of its heads will drop off and continue on
+as an EXEGGCUTE.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/103.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/103.gif
+104.0,cubone,mountain,"Because it never removes its skull helmet,
+no one has ever seen this POKéMON’s real
+face.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/104.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/104.gif
+105.0,marowak,mountain,"It is small and was originally very weak.
+Its temperament turned ferocious when it
+began using bones.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/105.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/105.gif
+106.0,hitmonlee,urban,"When in a hurry, its legs lengthen
+progressively. It runs smoothly with
+extra-long, loping strides.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/106.gif
+107.0,hitmonchan,urban,"While apparently doing nothing, it fires
+punches in lightning-fast volleys that are
+impossible to see.",comet-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/107.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/107.gif
+108.0,lickitung,grassland,"Its tongue can be extended like a
+chameleon’s. It leaves a tingling
+sensation when it licks enemies.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/108.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/108.gif
+109.0,koffing,urban,"Because it stores several kinds of toxic
+gases in its body, it is prone to
+exploding without warning.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/109.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/109.gif
+110.0,weezing,urban,"Where two kinds of poison gases meet, two
+KOFFING can fuse into a WEEZING over
+many years.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/110.gif
+111.0,rhyhorn,rough-terrain,"Its massive bones are 1,000 times harder
+than human bones. Its TACKLE can knock a
+semitrailer flying.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif
+112.0,rhydon,rough-terrain,"Protected by an armor-like hide, it is
+capable of living in molten lava of 3,600
+degrees Fahrenheit.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif
+113.0,chansey,urban,"A rare and elusive POKéMON that is said
+to bring happiness to those who manage to
+catch one.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/113.gif
+114.0,tangela,grassland,"The whole body is swathed with wide vines
+that are similar to seaweed. The vines
+sway as it walks.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/114.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/114.gif
+115.0,kangaskhan,grassland,"The infant rarely ventures out of its
+mother’s protective pouch until it is
+three years old.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/115.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/115.gif
+116.0,horsea,sea,"Known to shoot down flying bugs with
+precision blasts of ink from the surface
+of the water.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/116.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/116.gif
+117.0,seadra,sea,"It is capable of swimming backwards by
+rapidly flapping its winglike pectoral fins
+and stout tail.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/117.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/117.gif
+118.0,goldeen,waters-edge,"Its tail fin billows like an elegant
+ballroom dress, giving it the nickname of
+“The Water Queen.”",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/118.gif
+119.0,seaking,waters-edge,"The horn on its head is sharp like a
+drill. It bores a hole in a boulder to
+make its nest.",swords-dance,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/119.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/119.gif
+120.0,staryu,sea,"It appears in large numbers by seashores.
+At night, its central core flashes with a
+red light.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/120.gif
+121.0,starmie,sea,"Its central core glows with the seven
+colors of the rainbow. Some people value
+the core as a gem.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/121.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/121.gif
+122.0,mr-mime,urban,"If interrupted while it is miming, it will
+suddenly DOUBLESLAP the offender with its
+broad hands.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/122.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/122.gif
+123.0,scyther,grassland,"It tears and shreds prey with its wickedly
+sharp scythes. It very rarely spreads its
+wings to fly.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/123.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/123.gif
+124.0,jynx,urban,"It seductively wiggles its hips as it
+walks. It can cause people to dance in
+unison with it.",pound,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/124.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/124.gif
+125.0,electabuzz,grassland,"Normally found near power plants, they
+can wander away and cause major
+blackouts in cities.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/125.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/125.gif
+126.0,magmar,mountain,"Its body always burns with an orange glow
+that enables it to hide perfectly amidst
+flames.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/126.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/126.gif
+127.0,pinsir,forest,"If it fails to crush the foe in its
+pincers, it will swing around and toss
+the opponent.",vice-grip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/127.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/127.gif
+128.0,tauros,grassland,"When it targets an enemy, it charges
+furiously while whipping its body with its
+long tails.",stomp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/128.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/128.gif
+129.0,magikarp,waters-edge,"In the distant past, it was somewhat
+stronger than the horribly weak
+descendants that exist today.",tackle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/129.gif
+130.0,gyarados,waters-edge,"It is an extremely vicious and violent
+POKéMON. When humans begin to fight,
+it will appear and burn everything to the
+ground with intensely hot flames.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/130.gif
+131.0,lapras,sea,"A POKéMON that has been overhunted
+almost to extinction. It can ferry people
+on its back.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/131.gif
+132.0,ditto,urban,"Capable of copying an opponent’s genetic
+code to instantly transform itself into a
+duplicate of the enemy.",transform,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/132.gif
+133.0,eevee,urban,"Its genetic code is irregular. It may
+mutate if it is exposed to radiation from
+element STONES.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/133.gif
+134.0,vaporeon,urban,"Lives close to water. Its long tail is
+ridged with a fin which is often mistaken
+for a mermaid’s.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/134.gif
+135.0,jolteon,urban,"It accumulates negative ions in the
+atmosphere to blast out 10,000-volt
+lightning bolts.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/135.gif
+136.0,flareon,urban,"When storing thermal energy in its body,
+its temperature can soar to over 1,600
+degrees Fahrenheit.",pay-day,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/136.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/136.gif
+137.0,porygon,urban,"Using the most advanced technologies,
+scientists finally succeeded in making the
+first artificial POKéMON.",headbutt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/137.gif
+138.0,omanyte,sea,"Although long extinct, in rare cases, it
+can be genetically regenerated from
+fossils.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/138.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/138.gif
+139.0,omastar,sea,"Despite having strong fangs and tentacles,
+it went extinct when its heavy shell made
+it unable to catch prey.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/139.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/139.gif
+140.0,kabuto,sea,"A POKéMON that was regenerated from a
+fossil found in what was once the ocean
+floor long ago.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/140.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/140.gif
+141.0,kabutops,sea,"It swims freely through water. It catches
+prey with its scythe-like arms and drains
+the victim’s fluids.",scratch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/141.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/141.gif
+142.0,aerodactyl,mountain,"It was regenerated from a dinosaur’s
+genetic matter that was found in amber.
+It flies with high-pitched cries.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/142.gif
+143.0,snorlax,mountain,"Very lazy. Just eats and sleeps. As its
+rotund bulk builds, it becomes steadily
+more slothful.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/143.gif
+144.0,articuno,rare,"A legendary bird POKéMON that is said to
+appear to doomed people who are lost in
+icy mountains.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/144.gif
+145.0,zapdos,rare,"One of the legendary bird POKéMON.
+While it is flying, it makes crackling and
+snapping sounds.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/145.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/145.gif
+146.0,moltres,rare,"It is said to be the legendary bird
+POKéMON of fire. Every flap of its wings
+creates a dazzling flare of flames.",razor-wind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/146.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/146.gif
+147.0,dratini,waters-edge,"Long considered a mythical POKéMON until
+recently, when a small colony was found
+living underwater.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/147.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/147.gif
+148.0,dragonair,waters-edge,"It is said to live in seas and lakes.
+Even though it has no wings, it has been
+seen flying occasionally.",bind,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/148.gif
+149.0,dragonite,waters-edge,"Only a very few people ever see this
+POKéMON. Its intelligence is said to
+match that of humans.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/149.gif
+150.0,mewtwo,rare,"It was created by a scientist after years
+of horrific gene-splicing and DNA-
+engineering experiments.",mega-punch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/150.gif
