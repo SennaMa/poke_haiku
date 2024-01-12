@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(216, 234, 237);
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+/* .haiku-font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 35px;
+    margin-top:15%;
+} */
+.box {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgoldenrodyellow;
+    height: 500px;
+    width: 50%;
+    margin-left:25%;
+    margin-top:10%;
+}
+.poke-title {
+    /* background-color: bisque; */
+    justify-content: start;
+}
+.haiku-box {
+    flex-direction: row;
+    /* background-color: lightgreen; */
+    height: 400px;
+    width: auto;
+}
+.haiku-text {
+    /* background-color: greenyellow; */
+    /* height: 500px;
+    width:auto; */
+    flex-shrink:2;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.front-sprite {
+    text-align:end;
+    flex-grow:1;
+    padding-right:40px;
+}
+.back-sprite {
+    text-align:start;
+    flex-grow:1;
+    padding-left:40px;
+}
+.haiku-date {
+    background-color:deeppink;
+    height: 20px;
+    width: 857px;
+    text-align:end;
+    margin-left:25%;
+}
