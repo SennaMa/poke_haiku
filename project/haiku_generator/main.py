@@ -21,8 +21,10 @@ load_dotenv()
 
 # TODO: fix paths
 cwd = os.getcwd()
+path_to_poke_haiku_df = f'{cwd}/project/haiku_generator/data/poke_haikus.csv'
 path_to_clean_df = f'{cwd}/project/poke_api/data/clean_poke_df.csv'
-df = pd.read_csv(path_to_clean_df)
+df = pd.read_csv(path_to_poke_haiku_df)
+# df = pd.read_csv(path_to_clean_df)
 # poke_id = randint(0,149)
 
 
@@ -33,6 +35,7 @@ MODEL= os.getenv('CUSTOM_MODEL')
 TOKENS=25
 TEMPERATURE=0.8
 TOP_K=20
+RUN_VERSION=2
 
 logger.info(f'Generated haikus using these parameters: tokens={TOKENS}, temperature={TEMPERATURE}, k={TOP_K}')
 
@@ -41,15 +44,15 @@ haikus = []
 
 for poke_id in range(0,150):
     haiku = generate_haiku(PERSONAL_TOKEN, MODEL, df, poke_id, TOKENS, TEMPERATURE, TOP_K)
-    
+    print(haiku)
     poke_ids.append(poke_id)
     haikus.append(haiku)
     # wait 20 seconds due to rate limit
     time.sleep(20)
 
-saved_haikus = {"poke_id": poke_ids, "haiku": haikus}
+saved_haikus = {"poke_id": poke_ids, f"haiku_{RUN_VERSION}": haikus}
 haiku_df = pd.DataFrame(data=saved_haikus)
-final_df = pd.merge(df, haiku_df['haiku'], left_index=True, right_index=True)
+final_df = pd.merge(df, haiku_df[f'haiku_{RUN_VERSION}'], left_index=True, right_index=True)
 
 path_to_haiku_df = f'{cwd}/project/haiku_generator/data/poke_haikus.csv'
 final_df.to_csv(path_to_haiku_df, index=False)
