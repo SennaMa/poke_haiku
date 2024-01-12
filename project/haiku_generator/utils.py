@@ -1,11 +1,8 @@
 import cohere
 import pandas as pd
-import os
+import datetime
+from random import randint
 
-
-# TODO: fix paths
-cwd = os.getcwd()
-path_to_clean_df = f'{cwd}/project/poke_api/data/clean_poke_df.csv'
 
 def generate_haiku(token:str, custom_model:str, df:pd.DataFrame, poke_id:int, tokens, temperature, top_k) -> str:
     prompt_move = df.iloc[poke_id]['move']
@@ -33,3 +30,50 @@ def generate_haiku(token:str, custom_model:str, df:pd.DataFrame, poke_id:int, to
     )
     response = 'Prediction:\n{}'.format(response.generations[0].text)
     return response
+
+def create_website_db(path_to_poke_haiku_df: str, save_path_for_final_df: str) -> pd.DataFrame:
+    """Create the static db that the website will pull from.
+
+    Args:
+        path_to_poke_haiku_df (str): path to compiled haikus
+        save_path_for_final_df (str): save path to find the saved df
+
+    Returns:
+        pd.DataFrame: final df.
+    """
+    uuids = []
+    dates = []
+    poke_ids = []
+    haikus = []
+    sprites = []
+
+    date = datetime.datetime(2024,1,1).date()
+    for i in range(1,366):
+        uuid = str(i) + '_' + str(date)
+        poke_id = randint(0,149)
+        
+        uuids.append(uuid)
+        dates.append(date)
+        poke_ids.append(poke_id)
+
+        date = date + datetime.timedelta(days=1)
+         
+    poke_haiku_df = pd.read_csv(path_to_poke_haiku_df)
+    for id in poke_ids:        
+        sprite = poke_haiku_df['sprite_front'].iloc[id]
+        raw_haiku = poke_haiku_df['haiku_3'].iloc[id]
+        clean_haiku = raw_haiku.lstrip('Prediction: \n')
+        
+        haikus.append(clean_haiku)
+        sprites.append(sprite)
+
+    d = {"uuid": uuids,
+        "dates": dates,
+        "poke_id": poke_ids,
+        "haiku": haikus,
+        "sprites": sprites,
+    }
+
+    df = pd.DataFrame(data=d)
+    df.to_csv(save_path_for_final_df, index=False)
+    return df
