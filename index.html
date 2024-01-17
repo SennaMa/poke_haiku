@@ -1,9 +1,55 @@
 <!DOCTYPE html>
-<html>
-   <head>
-      <title>SennaMa</title>
-   </head>
-   <body>
-      <h1>Testing!</h1>
-   </body>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Poké Haiku</title>
+        <link rel="stylesheet" href="./project/website/style.css">
+        <script src="./project/website/data/data.js"></script>
+        <script src="./project/website/fetchHaikus.js"></script>
+    </head>
+    <body>
+        <div class="box">
+            <div class="poke-title">
+                <p> Poké Haiku of the day...</p>
+            </div>
+            <div class="haiku-box">
+                <div class="front-sprite">
+                    <img id = "frontHaikuSprite" src="#" alt="front of pokemon sprite" height="100px" weight="100px">
+                    <script>
+                        const frontSpriteElem = document.getElementById('frontHaikuSprite');
+                        const frontSpriteUrl = fetchSprite("front");
+                        frontSpriteElem.setAttribute('src', frontSpriteUrl);
+                    </script>
+                </div>
+
+                <div class="haiku-text">
+                    <script>
+                        var haiku = fetchHaiku();
+                        for (i = 0; i < haiku.length; i++) {
+                            document.write(haiku[i] + "<br>");
+                        }
+                    </script>
+                </div>
+                <div class="back-sprite">
+                    <img id = "backHaikuSprite" src="#" alt="back of pokemon sprite" height="100px" weight="100px">
+                    <script>
+                        const backSpriteElem = document.getElementById('backHaikuSprite');
+                        const backSpriteUrl = fetchSprite("back");
+                        backSpriteElem.setAttribute('src', backSpriteUrl);
+                    </script>
+                </div>
+            </div>
+        </div>
+        <div class="haiku-date">
+            <br>
+            <p id = 'pDate' style="margin-top:0px", font-size="20px">January 11, 2024</p>
+            <script>
+                const dateElem = document.getElementById('pDate');
+                dateElem.textContent = fetchDate().substring(0,17);
+            </script>
+        </div>
+    </body>
 </html>
+
