@@ -41,14 +41,13 @@
                     </script>
                 </div>
             </div>
-        </div>
-        <div class="haiku-date">
-            <br>
-            <p id = 'pDate' style="margin-top:0px", font-size="20px">January 11, 2024</p>
-            <script>
-                const dateElem = document.getElementById('pDate');
-                dateElem.textContent = fetchDate().substring(0,17);
-            </script>
+            <div class="haiku-date">
+                <p id = 'pDate'>#</p>
+                <script>
+                    const dateElem = document.getElementById('pDate');
+                    dateElem.textContent = fetchDate().substring(0,17);
+                </script>
+            </div>
         </div>
     </body>
 </html>

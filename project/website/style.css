@@ -3,14 +3,7 @@ body {
 }
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
 }
-/* .haiku-font {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
-    font-size: 35px;
-    margin-top:15%;
-} */
 .box {
     display: flex;
     flex-direction: column;
@@ -23,6 +16,9 @@ p {
 .poke-title {
     /* background-color: bisque; */
     justify-content: start;
+    padding-left:30px;
+    font-size:25px;
+    font-weight: bold;
 }
 .haiku-box {
     flex-direction: row;
@@ -35,6 +31,8 @@ p {
     /* height: 500px;
     width:auto; */
     flex-shrink:2;
+    font-style: italic;
+    font-size: 30px;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -51,10 +49,7 @@ p {
     padding-left:40px;
 }
 .haiku-date {
-    background-color:deeppink;
-    height: 20px;
-    width: 857px;
     text-align:end;
-    margin-left:25%;
+    font-size:20px;
+    margin-right:20px;
 }
-.haiku-tex
