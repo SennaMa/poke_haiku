@@ -4,10 +4,6 @@ body {
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.emptyBox {
-    height:20%;
-    width: 100%;
-}
 .box {
     display: flex;
     flex-direction: column;
