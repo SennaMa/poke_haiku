@@ -15,15 +15,14 @@
                 <p> Poké Haiku of the day...</p>
             </div>
             <div class="haiku-box">
-                <div class="front-sprite">
-                    <img id = "frontHaikuSprite" src="#" alt="front of pokemon sprite" height="100px" weight="100px">
+                <div class="back-sprite">
+                    <img id = "backHaikuSprite" src="#" alt="back of pokemon sprite">
                     <script>
-                        const frontSpriteElem = document.getElementById('frontHaikuSprite');
-                        const frontSpriteUrl = fetchSprite("front");
-                        frontSpriteElem.setAttribute('src', frontSpriteUrl);
+                        const backSpriteElem = document.getElementById('backHaikuSprite');
+                        const backSpriteUrl = fetchSprite("back");
+                        backSpriteElem.setAttribute('src', backSpriteUrl);
                     </script>
                 </div>
-
                 <div class="haiku-text">
                     <script>
                         var haiku = fetchHaiku();
@@ -32,12 +31,12 @@
                         }
                     </script>
                 </div>
-                <div class="back-sprite">
-                    <img id = "backHaikuSprite" src="#" alt="back of pokemon sprite" height="100px" weight="100px">
+                <div class="front-sprite">
+                    <img id = "frontHaikuSprite" src="#" alt="front of pokemon sprite">
                     <script>
-                        const backSpriteElem = document.getElementById('backHaikuSprite');
-                        const backSpriteUrl = fetchSprite("back");
-                        backSpriteElem.setAttribute('src', backSpriteUrl);
+                        const frontSpriteElem = document.getElementById('frontHaikuSprite');
+                        const frontSpriteUrl = fetchSprite("front");
+                        frontSpriteElem.setAttribute('src', frontSpriteUrl);
                     </script>
                 </div>
             </div>

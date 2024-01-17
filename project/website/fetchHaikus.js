@@ -28,7 +28,7 @@ for (var i = 0; i < Object.values(parsedHaikus['dates']).length; i++) {
 }
 
 function fetchHaiku() {
-    return dailyHaiku[0].split("\n")
+    return dailyHaiku[0].split("\n\n")
 }
 
 function fetchSprite(position) {
