@@ -27,7 +27,9 @@
                 <div class="haiku-text">
                     <script>
                         var haiku = fetchHaiku();
-                        document.write(haiku + "<br>");
+                        for (i = 0; i < haiku.length; i++) {
+                            document.write(haiku[i] + "<br>");
+                        }
                     </script>
                 </div>
                 <div class="back-sprite">
@@ -42,7 +44,11 @@
         </div>
         <div class="haiku-date">
             <br>
-            <p style="margin-top:0px", font-size="20px">January 11, 2024</p>
+            <p id = 'pDate' style="margin-top:0px", font-size="20px">January 11, 2024</p>
+            <script>
+                const dateElem = document.getElementById('pDate');
+                dateElem.textContent = fetchDate().substring(0,17);
+            </script>
         </div>
     </body>
 </html>
