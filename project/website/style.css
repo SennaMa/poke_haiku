@@ -4,6 +4,10 @@ body {
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.emptyBox {
+    height:20%;
+    width: 100%;
+}
 .box {
     display: flex;
     flex-direction: column;
@@ -12,7 +16,9 @@ p {
     border: 10px solid rgba(7, 1, 1, 0.63);
     height: 50%;
     width: 50%;
-    margin: 25%;
+    margin:auto;
+    transform: translate(0,50%);
+
 }
 .poke-title {
     /* background-color: bisque; */
@@ -32,7 +38,7 @@ p {
 .haiku-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     align-self:center;
     width:60%;
