@@ -28,7 +28,7 @@ for (var i = 0; i < Object.values(parsedHaikus['dates']).length; i++) {
 }
 
 function fetchHaiku() {
-    return dailyHaiku[0]
+    return dailyHaiku[0].split("\n\n")
 }
 
 function fetchSprite(position) {
@@ -37,4 +37,8 @@ function fetchSprite(position) {
     } else {
         return dailySprite[0].replace("/animated/", "/animated/back/")
     }
+}
+
+function fetchDate() {
+    return rawDate.toUTCString()
 }
