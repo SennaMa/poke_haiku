@@ -38,6 +38,7 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .front-sprite {
     text-align:end;
@@ -56,3 +57,4 @@ p {
     text-align:end;
     margin-left:25%;
 }
+.haiku-tex

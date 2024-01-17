@@ -31,7 +31,7 @@ def generate_haiku(token:str, custom_model:str, df:pd.DataFrame, poke_id:int, to
     response = 'Prediction:\n{}'.format(response.generations[0].text)
     return response
 
-def create_website_db(path_to_poke_haiku_df: str, save_path_for_final_df: str) -> pd.DataFrame:
+def create_website_db(path_to_poke_haiku_df: str, save_path_for_final_df: str, save_path_for_final_df_json: str) -> pd.DataFrame:
     """Create the static db that the website will pull from.
 
     Args:
@@ -76,4 +76,5 @@ def create_website_db(path_to_poke_haiku_df: str, save_path_for_final_df: str) -
 
     df = pd.DataFrame(data=d)
     df.to_csv(save_path_for_final_df, index=False)
+    df.to_json(save_path_for_final_df_json)
     return df

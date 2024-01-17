@@ -6,26 +6,37 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Poké Haiku</title>
         <link rel="stylesheet" href="style.css">
+        <script src="./data/data.js"></script>
+        <script src="./fetchHaikus.js"></script>
     </head>
     <body>
         <div class="box">
             <div class="poke-title">
-                <p>Pokemon Haiku of the day...</p>
+                <p> Pokemon Haiku of the day...</p>
             </div>
             <div class="haiku-box">
                 <div class="front-sprite">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif" alt="pokemon" height="100px" weight="100px">
+                    <img id = "frontHaikuSprite" src="#" alt="front of pokemon sprite" height="100px" weight="100px">
+                    <script>
+                        const frontSpriteElem = document.getElementById('frontHaikuSprite');
+                        const frontSpriteUrl = fetchSprite("front");
+                        frontSpriteElem.setAttribute('src', frontSpriteUrl);
+                    </script>
                 </div>
 
                 <div class="haiku-text">
-                    <p>"A Venusaur moves through a grassland <br>
-                        Its flower blooms <br>
-                        With the move swords-dance"<br>
-                    </p>
+                    <script>
+                        var haiku = fetchHaiku();
+                        document.write(haiku + "<br>");
+                    </script>
                 </div>
                 <div class="back-sprite">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/3.gif" alt="pokemon" height="100px" weight="100px">
-
+                    <img id = "backHaikuSprite" src="#" alt="back of pokemon sprite" height="100px" weight="100px">
+                    <script>
+                        const backSpriteElem = document.getElementById('backHaikuSprite');
+                        const backSpriteUrl = fetchSprite("back");
+                        backSpriteElem.setAttribute('src', backSpriteUrl);
+                    </script>
                 </div>
             </div>
         </div>
