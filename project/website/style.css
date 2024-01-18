@@ -1,5 +1,7 @@
 body {
     background-color: rgb(216, 234, 237);
+    margin-left:auto;
+    margin-right:auto;
 }
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -7,60 +9,139 @@ p {
 .box {
     display: flex;
     flex-direction: column;
+    flex-wrap: nowrap;
     justify-content: center;
     background-color: lightgoldenrodyellow;
-    border: 10px solid rgba(7, 1, 1, 0.63);
-    height: 50%;
-    width: 50%;
-    margin:auto;
-    transform: translate(0,50%);
-
+    border: solid rgba(7, 1, 1, 0.63);
+    margin-left:auto;
+    margin-right:auto;
 }
 .poke-title {
-    /* background-color: bisque; */
     justify-content: start;
-    /* text-align: center; */
-    padding-left:30px;
-    font-size:25px;
+    padding-left:4%;
     font-weight: bold;
 }
 .haiku-box {
     display:flex;
     flex-direction: row;
+    justify-content: center;
     background-color: rgb(248, 248, 236);
-    height: 500px;
-    width: auto;
-}
-.haiku-text {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
-    font-size: 40px;
-    text-align: center;
-    align-self:center;
-    width:60%;
 }
 .front-sprite {
     text-align:center;
     align-self:start;
-    width:20%;
     flex-shrink: 2;
 }
 .back-sprite {
     text-align:center;
     align-self:end;
-    width:20%;
     flex-shrink: 2;
+}
+.haiku-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    align-self:center;
 }
 .haiku-date {
     text-align:end;
-    font-size:25px;
-    margin-right:20px;
 }
-#backHaikuSprite {
-    padding-bottom: 20px;
-    height:180px;
+
+
+@media only screen and (max-width: 430px) {
+    /* 430px is max width for majority of phone devices */
+    body {
+        height:100dvh;
+        width:100dvw;
+    }
+    .box {
+        height:25%;
+        width:80%;
+        transform: translate(0, 120%);
+    }
+    .haiku-box {
+        height: 80%;
+        width: 100%;
+    }
+    .poke-title {
+        font-size:10px;
+        height:15%;
+        width:100%;
+    }
+    .haiku-date {
+        font-size:10px;
+        height:15%;
+        width:100%;
+    }
+    #pDate {
+        padding-right:4%;
+        padding-bottom: 2%;
+    }
+    .front-sprite {
+        width:15%;
+        padding-right:15px;
+    }
+    .back-sprite {
+        width:15%;
+    }
+    #backHaikuSprite {
+        height:50px;
+    }
+    #frontHaikuSprite {
+        height:50px;
+    }
+    .haiku-text {
+        font-size: 15px;
+        width:80%;
+        padding-left:20px;
+    }
 }
-#frontHaikuSprite {
-    padding-top: 20px;
-    height:180px;
+
+@media only screen and (min-width: 500px) {
+    /* 800px is larger than most screens (ipads, laptops) */
+    body {
+        height:100dvh;
+        width:100dvw;
+    }
+    .box {
+        height:25%;
+        width:50%;
+        transform: translate(0, 120%);
+    }
+    .haiku-box {
+        height: 80%;
+        width: 100%;
+    }
+    .poke-title {
+        font-size:20px;
+        height:15%;
+        width:100%;
+    }
+    .haiku-date {
+        font-size:20px;
+        height:15%;
+        width:100%;
+    }
+    #pDate {
+        padding-right: 4%;
+        padding-bottom: 2%;
+    }
+    .front-sprite {
+        width:30%;
+        padding-right:15px;
+    }
+    .back-sprite {
+        width:30%;
+    }
+    #backHaikuSprite {
+        height:100px;
+    }
+    #frontHaikuSprite {
+        height:100px;
+    }
+    .haiku-text {
+        font-size: 40px;
+        width:80%;
+        padding-left:20px;
+    }
 }
