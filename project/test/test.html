@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./testStyle.css">
+</head>
+<body>
+
+<div id="mySidepanel" class="sidepanel">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <p>Prior Dates</p>
+  <ul> 
+    <li> <a href="javascript:void(0)" onclick="testAlert()">Jan 1, 2024</a></li>
+  </ul>
+</div>
+
+<button class="openbtn" onclick="openNav()">☰ Sidepanel</button>  <!-- we can write w.e we want in the sidepanel -->
+<h2>Testing out the Collapsed Sidepanel</h2>
+
+<script>
+function openNav() {
+  document.getElementById("mySidepanel").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidepanel").style.width = "0";
+}
+
+function testAlert() {
+  alert("If this alert pops up, then the function ran correctly");
+}
+</script>
+   
+</body>
+</html> 
